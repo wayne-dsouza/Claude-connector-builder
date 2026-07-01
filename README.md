@@ -85,6 +85,10 @@ Restart Claude Desktop. The Lemlist tools appear under the connectors/tools menu
 
 ## Use it as a remote custom connector (HTTP)
 
+> **Not technical?** Follow the click-by-click, no-terminal guide in **[DEPLOY.md](./DEPLOY.md)** to put it online for free and connect it to Claude in ~10 minutes.
+
+This repo includes a **[`render.yaml`](./render.yaml)** blueprint and a **[`Dockerfile`](./Dockerfile)** so it deploys to common cloud hosts with minimal setup.
+
 Run the server in HTTP mode and expose it over HTTPS (behind a reverse proxy / host of your choice):
 
 ```bash

@@ -1,0 +1,18 @@
+# Render Blueprint — https://render.com/docs/blueprint-spec
+# Lets you deploy the Lemlist connector to the cloud in HTTP mode with a few clicks.
+# When you create a Blueprint from this repo, Render reads this file and sets everything
+# up for you; it will ask you to paste your LEMLIST_API_KEY (kept as a secret).
+services:
+  - type: web
+    name: lemlist-mcp
+    runtime: node
+    plan: free
+    buildCommand: npm install --include=dev && npm run build
+    startCommand: node dist/index.js
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      - key: MODE
+        value: http
+      - key: LEMLIST_API_KEY
+        sync: false # Render will prompt you to enter this and store it securely.
