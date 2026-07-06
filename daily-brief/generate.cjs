@@ -204,7 +204,7 @@ function reportPage(m, idx, total, pageNo) {
 
 /* --------------------------------------------------- kick-off time zones -- */
 const ZONES = [
-  { tz: 'Europe/Vienna', flags: ['at', 'es'] },
+  { tz: 'Europe/Vienna', flags: ['at', 'es', 'fr'] },
   { tz: 'Europe/Sofia', flags: ['bg'] },
   { tz: 'Asia/Kolkata', flags: ['in'] },
   { tz: 'America/Toronto', flags: ['ca'] },
