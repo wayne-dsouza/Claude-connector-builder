@@ -45,18 +45,26 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
    overflow, label collisions, missing images — and fix before shipping.
 5. **Deliver**:
    a. Send the PDF in the session with SendUserFile (status: proactive).
-   b. Copy `out/brief-<date>.html` to `out/morning-kickoff.html` and redeploy the
-      Artifact with `url: https://claude.ai/code/artifact/9882aba5-ebdb-46aa-9fae-34c82e94bbda`
-      (same URL every day — it's linked from the emails; keep favicon ⚽).
+   b. Publish the PDF at a public link: copy it to
+      `daily-brief/editions/morning-kickoff-<date>.pdf`, commit + push (the repo
+      is public). Verify with curl that
+      `https://raw.githubusercontent.com/wayne-dsouza/Claude-connector-builder/claude/world-cup-daily-pdf-gwjr86/daily-brief/editions/morning-kickoff-<date>.pdf`
+      returns 200 — this is THE link readers use; nothing else requires a login.
    c. Email both readers via Google Calendar (fully automated — the Gmail
       connector is draft-only, so calendar invitations are the send channel):
       create_event on wayne@liquidmbs.fr's calendar, attendees
       wayne@liquidmbs.fr + shanice@liquidmbs.fr, notificationLevel ALL,
       availability FREE, colorId 9, that day 07:30–07:45 Europe/Paris,
-      title `⚽ The Morning Kickoff #N — <top story>`, HTML description =
-      full morning summary (yesterday / tonight / tomorrow / golden boot /
-      bracket) + link to the artifact URL above. Google emails the invitation
-      to both attendees automatically.
+      title `⚽ The Morning Kickoff #N — <top story>`. HTML description: the
+      raw.githubusercontent.com PDF link FIRST ("📄 DOWNLOAD TODAY'S PDF"),
+      then the morning summary (yesterday / tonight / tomorrow / golden boot /
+      bracket). Also pass the PDF link as an attachment
+      (`attachments: [{fileUrl, title}]`). Do NOT link the Claude artifact in
+      the invite (it requires a Claude login). Google emails the invitation to
+      both attendees automatically.
+   d. (Optional, low priority) redeploy the web Artifact
+      (`url: https://claude.ai/code/artifact/9882aba5-ebdb-46aa-9fae-34c82e94bbda`)
+      for in-app reading.
 6. **Commit** the new data file + any new photos/flags and push to
    `claude/world-cup-daily-pdf-gwjr86`.
 7. If no matches were played yesterday (rest day), lead with previews and bracket.
