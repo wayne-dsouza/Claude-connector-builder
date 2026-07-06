@@ -204,9 +204,10 @@ function reportPage(m, idx, total, pageNo) {
 
 /* --------------------------------------------------- kick-off time zones -- */
 const ZONES = [
-  { tz: 'Europe/Paris', flags: ['fr', 'es', 'at'] },
+  { tz: 'Europe/Vienna', flags: ['at', 'es'] },
   { tz: 'Europe/Sofia', flags: ['bg'] },
   { tz: 'Asia/Kolkata', flags: ['in'] },
+  { tz: 'America/Toronto', flags: ['ca'] },
   { tz: 'America/Mexico_City', flags: ['mx'] },
 ];
 function zoneChips(kickUtc) {
@@ -508,8 +509,8 @@ const CSS = `
 
   /* kick-off zone chips */
   .flag-xxs { width:15px; height:11px; border-radius:2px; }
-  .tz-row { display:flex; gap:7px; margin:2px 0 9px; }
-  .tz-chip { display:inline-flex; align-items:center; gap:5px; background:var(--navy); color:#fff; border-radius:6px; padding:5px 10px; font-size:12px; font-weight:bold; }
+  .tz-row { display:flex; flex-wrap:wrap; gap:6px; margin:2px 0 9px; }
+  .tz-chip { display:inline-flex; align-items:center; gap:4px; background:var(--navy); color:#fff; border-radius:6px; padding:4px 8px; font-size:11px; font-weight:bold; }
   .tz-chip b { font-variant-numeric:tabular-nums; }
   .tz-chip em { font-style:normal; font-size:8px; font-weight:bold; color:#eda100; }
 
@@ -651,7 +652,7 @@ const coverPage = `<div class="page">
       </div>
     </div>
     <div class="teaser">
-      <span class="teaser-k">TONIGHT (FRENCH TIME)</span>
+      <span class="teaser-k">TONIGHT (CENTRAL EUROPE)</span>
       ${data.today.map((f) => `<span class="teaser-m">${flag(f.home.code, 'flag flag-sm')} ${esc(f.home.name)} – ${esc(f.away.name)} ${flag(f.away.code, 'flag flag-sm')} <span class="t-time">${esc(f.timeFr)}</span></span>`).join('')}
       <span class="teaser-arrow">FULL PREVIEWS PAGE 4 ${icon('arrow', 12)}</span>
     </div>
@@ -702,7 +703,7 @@ const statsPage = `<div class="page">
 </div>`;
 
 const roadPage = `<div class="page">
-  ${pageHead('THE ROAD TO THE FINAL', 'All kick-off times in French time (CEST)')}
+  ${pageHead('THE ROAD TO THE FINAL', 'All kick-off times in Central European time (CEST)')}
   <div class="body">
     <div class="card"><div class="tracker">
       ${data.stageTracker.stages.map((t) => `<div class="trk ${t.state}"><div class="trk-dot"></div><div class="trk-label">${esc(t.label)}</div><div class="trk-sub">${esc(t.sub)}</div></div>`).join('')}

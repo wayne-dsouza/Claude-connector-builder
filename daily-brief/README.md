@@ -34,7 +34,7 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
    match stats — possession/shots/passes from Opta-style sources, attendance,
    storylines, star performers), today's fixtures (venues, kick-off in UTC —
    record it as `kickUtc` on each fixture; the generator renders kick-off chips
-   for all reader time zones: FR/ES/AT, Bulgaria, India, Mexico City), Golden
+   for all reader time zones: Austria/Spain, Bulgaria, India, Toronto, Mexico City), Golden
    Boot standings, bracket state, week ahead. Verify facts across at least two
    sources; don't state squad details you haven't verified.
 2. **Data file**: write `data/<today>.json` (copy previous edition's structure;
@@ -60,9 +60,9 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
       title `⚽ The Morning Kickoff #N — <top story>`. HTML description: the
       raw.githubusercontent.com PDF link FIRST ("📄 DOWNLOAD TODAY'S PDF"),
       then the morning summary (yesterday / tonight / tomorrow / golden boot /
-      bracket). Give tonight's kick-offs in all four family time zones, e.g.
-      "21:00 France·Spain·Austria / 22:00 Bulgaria / 00:30 India (+1) / 13:00
-      Mexico". Also pass the PDF link as an attachment
+      bracket). Give tonight's kick-offs in all family time zones, e.g.
+      "21:00 Austria·Spain / 22:00 Bulgaria / 00:30 India (+1) / 15:00 Toronto /
+      13:00 Mexico". Also pass the PDF link as an attachment
       (`attachments: [{fileUrl, title}]`). Do NOT link the Claude artifact in
       the invite (it requires a Claude login). Google emails the invitation to
       both attendees automatically.
@@ -77,7 +77,7 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
 
 ## Design notes
 
-- All times displayed in French time (CEST); ET shown as "local".
+- Base time zone is Central European (Wayne is in Austria); stadium-local ET shown as "local". Zone chips: AT/ES, BG, IN, CA-Toronto, MX.
 - Fonts: Liberation Sans (container has no emoji font — SVG icons only, never emoji).
 - Palette anchored on the validated dataviz reference palette (navy `#0d366b`,
   blue `#2a78d6`, red `#e34948`, gold `#eda100`, aqua `#1baf7a`).
