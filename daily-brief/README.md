@@ -52,8 +52,8 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
       returns 200 — this is THE link readers use; nothing else requires a login.
    c. Email both readers via Google Calendar (fully automated — the Gmail
       connector is draft-only, so calendar invitations are the send channel):
-      create_event on wayne@liquidmbs.fr's calendar, attendees
-      wayne@liquidmbs.fr + shanice@liquidmbs.fr, notificationLevel ALL,
+      create_event on wayne@liquidmbs.fr's calendar, attendees = every
+      email in `daily-brief/recipients.json`, notificationLevel ALL,
       availability FREE, colorId 9, that day 07:30–07:45 Europe/Paris,
       title `⚽ The Morning Kickoff #N — <top story>`. HTML description: the
       raw.githubusercontent.com PDF link FIRST ("📄 DOWNLOAD TODAY'S PDF"),
