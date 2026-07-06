@@ -337,6 +337,31 @@ function weekStrip(week) {
     .join('')}</div>`;
 }
 
+function predictionCard(f) {
+  const p = f.prediction;
+  if (!p) return '';
+  const seg = (cls, pct, lbl) => pct > 0 ? `<span class="pb-seg ${cls}" style="width:${pct}%"><i>${lbl}</i></span>` : '';
+  return `<div class="card pred-card">
+    <div class="pr-head">
+      ${flag(f.home.code, 'flag flag-sm')}<span class="pr-title">${esc(f.home.name)} v ${esc(f.away.name)}</span>${flag(f.away.code, 'flag flag-sm')}
+      <span class="pr-call">${icon('star', 10)}OUR CALL: ${esc(p.call).toUpperCase()}</span>
+    </div>
+    <div class="pb-label">RESULT AFTER 90 MINUTES</div>
+    <div class="pb">
+      ${seg('pb-h', p.probs.home, p.probs.home + '%')}${seg('pb-d', p.probs.draw, p.probs.draw + '%')}${seg('pb-a', p.probs.away, p.probs.away + '%')}
+    </div>
+    <div class="pb-legend"><span><i class="pb-h"></i>${esc(f.home.name)} win</span><span><i class="pb-d"></i>Draw</span><span><i class="pb-a"></i>${esc(f.away.name)} win</span></div>
+    <div class="pb-label">TO REACH THE QUARTER-FINAL</div>
+    <div class="pb pb-thin">
+      ${seg('pb-h', p.advance.home, esc(f.home.name) + ' ' + p.advance.home + '%')}${seg('pb-a', p.advance.away, esc(f.away.name) + ' ' + p.advance.away + '%')}
+    </div>
+    <div class="pr-factors">
+      ${p.factors.map((fa) => `<div class="pr-factor">${icon(fa.icon, 13, '#0d366b')}<div><div class="prf-label">${esc(fa.label)}</div><div class="prf-text">${esc(fa.text)}</div></div></div>`).join('')}
+    </div>
+    <div class="pr-verdict">${icon('bolt', 12, '#eda100')}<div><b>THE VERDICT&nbsp;&nbsp;</b>${esc(p.verdict)}</div></div>
+  </div>`;
+}
+
 const sectionHead = (ic, title, sub) => `<div class="sec">
   <span class="sec-ic">${icon(ic, 15, '#fff')}</span>
   <span class="sec-title">${title}</span>
@@ -514,6 +539,31 @@ const CSS = `
   .tz-chip b { font-variant-numeric:tabular-nums; }
   .tz-chip em { font-style:normal; font-size:8px; font-weight:bold; color:#eda100; }
 
+  /* crystal ball predictions */
+  .pred-card { display:flex; flex-direction:column; gap:8px; }
+  .pr-head { display:flex; align-items:center; gap:9px; }
+  .pr-title { font-size:16px; font-weight:bold; }
+  .pr-call { margin-left:auto; display:inline-flex; align-items:center; gap:5px; background:var(--gold); color:#fff; font-size:10px; font-weight:bold; letter-spacing:1px; border-radius:20px; padding:5px 12px; }
+  .pb-label { font-size:7.8px; font-weight:bold; letter-spacing:1.8px; color:var(--muted); margin-top:3px; }
+  .pb { display:flex; height:24px; border-radius:6px; overflow:hidden; }
+  .pb-thin { height:17px; }
+  .pb-seg { display:flex; align-items:center; justify-content:center; }
+  .pb-seg + .pb-seg { border-left:2px solid #fff; }
+  .pb-seg i { font-style:normal; font-size:9.5px; font-weight:bold; color:#fff; white-space:nowrap; }
+  .pb-seg.pb-h { background:var(--blue); }
+  .pb-seg.pb-d { background:#c9c8bf; } .pb-seg.pb-d i { color:var(--ink); }
+  .pb-seg.pb-a { background:var(--red); }
+  .pb-legend { display:flex; gap:16px; font-size:8.5px; color:var(--ink2); font-weight:bold; margin-top:2px; }
+  .pb-legend i { display:inline-block; width:8px; height:8px; border-radius:2px; margin-right:5px; }
+  .pb-legend i.pb-h { background:var(--blue); } .pb-legend i.pb-d { background:#c9c8bf; } .pb-legend i.pb-a { background:var(--red); }
+  .pr-factors { display:grid; grid-template-columns:1fr 1fr; gap:9px; margin-top:4px; }
+  .pr-factor { display:flex; gap:8px; align-items:flex-start; background:var(--plane); border:1px solid var(--grid); border-radius:8px; padding:9px 11px; }
+  .prf-label { font-size:8px; font-weight:bold; letter-spacing:1.5px; color:var(--blue); }
+  .prf-text { font-size:9.2px; line-height:1.45; color:var(--ink2); margin-top:2px; }
+  .pr-verdict { display:flex; align-items:center; gap:9px; background:#fffaf0; border:1px solid #f3ddaa; border-radius:8px; padding:10px 13px; font-size:9.8px; }
+  .pr-verdict b { letter-spacing:1.5px; font-size:8.5px; color:var(--gold); }
+  .pred-disclaimer { font-size:8px; color:var(--muted); font-style:italic; text-align:center; padding:0 20px; }
+
   /* golden boot */
   .podium { display:flex; gap:12px; }
   .pd-card { flex:1; background:#fff; border:1px solid var(--grid); border-radius:11px; overflow:hidden; box-shadow:0 1px 3px rgba(11,11,11,.05); }
@@ -605,7 +655,8 @@ const CSS = `
 `;
 
 /* ----------------------------------------------------------------- HTML -- */
-const PAGE_COUNT = 4 + data.yesterday.length;
+const HAS_PREDICTIONS = (data.today || []).some((f) => f.prediction);
+const PAGE_COUNT = (HAS_PREDICTIONS ? 5 : 4) + data.yesterday.length;
 function footer(pageNo) {
   return `<div class="foot">
     ${icon('ball', 10, '#898781')}
@@ -689,6 +740,15 @@ const todayPage = `<div class="page">
   ${footer(2 + data.yesterday.length)}
 </div>`;
 
+const predictionsPage = !HAS_PREDICTIONS ? '' : `<div class="page">
+  ${pageHead('THE CRYSTAL BALL', "Tonight's calls — for family bragging rights only")}
+  <div class="body">
+    ${data.today.map(predictionCard).join('')}
+    <div class="pred-disclaimer">${esc(data.predictionsDisclaimer || '')}</div>
+  </div>
+  ${footer(3 + data.yesterday.length)}
+</div>`;
+
 const statsPage = `<div class="page">
   ${pageHead('THE GOLDEN BOOT RACE', 'Three men, seven goals each — a World Cup first')}
   <div class="body">
@@ -699,7 +759,7 @@ const statsPage = `<div class="page">
       ${data.statTiles.map((t) => `<div class="tile"><div class="tile-v">${esc(t.value)}</div><div class="tile-l">${esc(t.label)}</div></div>`).join('')}
     </div>
   </div>
-  ${footer(3 + data.yesterday.length)}
+  ${footer((HAS_PREDICTIONS ? 4 : 3) + data.yesterday.length)}
 </div>`;
 
 const roadPage = `<div class="page">
@@ -718,13 +778,14 @@ const roadPage = `<div class="page">
     </div>
   </div>
   <div class="credits">__PHOTO_CREDITS__</div>
-  ${footer(4 + data.yesterday.length)}
+  ${footer((HAS_PREDICTIONS ? 5 : 4) + data.yesterday.length)}
 </div>`;
 
 let html = `<!DOCTYPE html><html><head><meta charset="utf-8"><style>${CSS}</style></head><body>
 ${coverPage}
 ${reportPages}
 ${todayPage}
+${predictionsPage}
 ${statsPage}
 ${roadPage}
 </body></html>`;

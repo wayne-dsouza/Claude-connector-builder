@@ -40,6 +40,15 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
 2. **Data file**: write `data/<today>.json` (copy previous edition's structure;
    bump `editionNumber`; refresh hero, briefing, insideToday, timelines, stats,
    stageTracker, week, tomorrow, statTiles, signoff, sources).
+   **Predictions ("The Crystal Ball")**: every fixture in `today[]` gets a
+   `prediction` object (see 2026-07-06 for schema): `call` (predicted score),
+   `probs` {home/draw/away, sum 100} for the 90-minute result, `advance`
+   {home/away} to reach the next round, four `factors` (FORM, HEAD-TO-HEAD,
+   FITNESS & FATIGUE, WHERE THE MONEY IS) and a `verdict`. Research real
+   bookmaker/prediction-market odds and blend with form, injuries, fatigue and
+   history — never invent odds. Keep `predictionsDisclaimer` present: this is
+   entertainment, never betting advice. The generator renders it as its own
+   page automatically.
 3. **Photos**: fetch any new star/key-man photos with `fetch-photo.cjs`
    (~20s between calls). Missing flags: `curl -o assets/flags/<code>.png
    https://flagcdn.com/w160/<code>.png` (ISO alpha-2; England = `gb-eng`).

@@ -54,10 +54,14 @@
     },
     {
       "page": "P.5",
-      "text": "Golden Boot: Mbappé, Messi & Haaland locked on 7 — a World Cup first"
+      "text": "NEW — The Crystal Ball: our calls for tonight's games, with the odds and the reasons"
     },
     {
       "page": "P.6",
+      "text": "Golden Boot: Mbappé, Messi & Haaland locked on 7 — a World Cup first"
+    },
+    {
+      "page": "P.7",
       "text": "The bracket, your week of football, and the road to MetLife"
     }
   ],
@@ -366,7 +370,42 @@
         "team": "Spain",
         "line": "Four goals this tournament, quietly among the Golden Boot chasers — and Spain's most reliable big-game finisher."
       },
-      "kickUtc": "2026-07-06T19:00:00Z"
+      "kickUtc": "2026-07-06T19:00:00Z",
+      "prediction": {
+        "call": "Spain 2–1",
+        "probs": {
+          "home": 24,
+          "draw": 27,
+          "away": 49
+        },
+        "advance": {
+          "home": 40,
+          "away": 60
+        },
+        "factors": [
+          {
+            "icon": "stats",
+            "label": "FORM",
+            "text": "Spain are unbeaten and have not conceded a goal all tournament; Portugal needed a stoppage-time winner to squeeze past Croatia in the last 32."
+          },
+          {
+            "icon": "whistle",
+            "label": "HEAD-TO-HEAD",
+            "text": "Portugal beat Spain on penalties in last summer's Nations League final after a 2–2 draw. These sides know each other perfectly."
+          },
+          {
+            "icon": "redcard",
+            "label": "FITNESS & FATIGUE",
+            "text": "Portugal report a fully fit squad. Spain are likely without wingers Nico Williams and Yeremy Pino, who both missed the Austria game."
+          },
+          {
+            "icon": "boot",
+            "label": "WHERE THE MONEY IS",
+            "text": "Bookmakers price Spain around 52% to win in 90 minutes, the draw 27%, Portugal 25% — and prediction markets agree almost exactly."
+          }
+        ],
+        "verdict": "Spain's control against Ronaldo's ruthlessness. The statistics say Spain; recent history says never count Portugal out. We take Spain narrowly — with a real chance this one goes the distance."
+      }
     },
     {
       "kicker": "HOSTS UNDER THE LIGHTS",
@@ -393,7 +432,42 @@
         "team": "United States",
         "line": "Suspension overturned, point to prove. The Seattle crowd will make him the story of the night if he scores."
       },
-      "kickUtc": "2026-07-07T00:00:00Z"
+      "kickUtc": "2026-07-07T00:00:00Z",
+      "prediction": {
+        "call": "USA 2–1",
+        "probs": {
+          "home": 50,
+          "draw": 27,
+          "away": 23
+        },
+        "advance": {
+          "home": 62,
+          "away": 38
+        },
+        "factors": [
+          {
+            "icon": "stats",
+            "label": "FORM",
+            "text": "The hosts have impressed since a 4–1 opening win over Paraguay; Belgium have looked flat and leggy since crossing the Atlantic."
+          },
+          {
+            "icon": "whistle",
+            "label": "HEAD-TO-HEAD",
+            "text": "Belgium won the famous 2014 round-of-16 meeting 2–1 in extra time — the Tim Howard game. Twelve years on, the roles are reversed."
+          },
+          {
+            "icon": "redcard",
+            "label": "FITNESS & FATIGUE",
+            "text": "Balogun (3 goals) is back after FIFA overturned his red card. McKenzie and Roldan are being assessed; Zeno Debast remains doubtful for Belgium."
+          },
+          {
+            "icon": "boot",
+            "label": "WHERE THE MONEY IS",
+            "text": "The market makes the USA clear favourites — around −190 against +175 for Belgium — and Balogun's reinstatement shortened those odds further."
+          }
+        ],
+        "verdict": "Home crowd, fresher legs and the leading scorer back in the side: everything points to the USA, provided they survive the moments of Belgian magic. A first quarter-final since 2002, says the crystal ball."
+      }
     }
   ],
   "goldenBoot": {
@@ -683,5 +757,6 @@
       },
       "timeFr": "22:00"
     }
-  ]
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend public bookmaker odds with our own reading of form, fitness and history. Entertainment — not financial or betting advice."
 }
