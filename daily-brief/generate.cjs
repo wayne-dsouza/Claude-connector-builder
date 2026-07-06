@@ -355,6 +355,10 @@ function predictionCard(f) {
     <div class="pb pb-thin">
       ${seg('pb-h', p.advance.home, esc(f.home.name) + ' ' + p.advance.home + '%')}${seg('pb-a', p.advance.away, esc(f.away.name) + ' ' + p.advance.away + '%')}
     </div>
+    ${p.market ? `<div class="pr-market">
+      ${icon('bolt', 10, '#1baf7a')}<span class="prm-src">LIVE MARKET · ${esc(p.market.source).toUpperCase()} · ${esc(p.market.volume).toUpperCase()}</span>
+      ${p.market.legs.map((l) => `<span class="prm-chip prm-${l.cls}">${esc(l.label)} <b>${l.pct}%</b></span>`).join('')}
+    </div>` : ''}
     <div class="pr-factors">
       ${p.factors.map((fa) => `<div class="pr-factor">${icon(fa.icon, 13, '#0d366b')}<div><div class="prf-label">${esc(fa.label)}</div><div class="prf-text">${esc(fa.text)}</div></div></div>`).join('')}
     </div>
@@ -556,6 +560,11 @@ const CSS = `
   .pb-legend { display:flex; gap:16px; font-size:8.5px; color:var(--ink2); font-weight:bold; margin-top:2px; }
   .pb-legend i { display:inline-block; width:8px; height:8px; border-radius:2px; margin-right:5px; }
   .pb-legend i.pb-h { background:var(--blue); } .pb-legend i.pb-d { background:#c9c8bf; } .pb-legend i.pb-a { background:var(--red); }
+  .pr-market { display:flex; align-items:center; gap:7px; background:#f0faf5; border:1px solid #bfe8d4; border-radius:8px; padding:7px 11px; margin-top:3px; }
+  .prm-src { font-size:7.5px; font-weight:bold; letter-spacing:1.2px; color:#0e7a52; margin-right:auto; }
+  .prm-chip { font-size:9px; color:var(--ink2); background:#fff; border:1px solid var(--grid); border-radius:12px; padding:2.5px 8px; }
+  .prm-chip b { color:var(--ink); }
+  .prm-chip.prm-h b { color:var(--blue); } .prm-chip.prm-a b { color:var(--red); }
   .pr-factors { display:grid; grid-template-columns:1fr 1fr; gap:9px; margin-top:4px; }
   .pr-factor { display:flex; gap:8px; align-items:flex-start; background:var(--plane); border:1px solid var(--grid); border-radius:8px; padding:9px 11px; }
   .prf-label { font-size:8px; font-weight:bold; letter-spacing:1.5px; color:var(--blue); }

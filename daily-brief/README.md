@@ -46,9 +46,17 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
    {home/away} to reach the next round, four `factors` (FORM, HEAD-TO-HEAD,
    FITNESS & FATIGUE, WHERE THE MONEY IS) and a `verdict`. Research real
    bookmaker/prediction-market odds and blend with form, injuries, fatigue and
-   history — never invent odds. Keep `predictionsDisclaimer` present: this is
-   entertainment, never betting advice. The generator renders it as its own
-   page automatically.
+   history — never invent odds. **Live market data**: pull real traded prices
+   from Kalshi's public API with `fetch-market.cjs` (no auth needed):
+   `node daily-brief/fetch-market.cjs --list` shows open World Cup match
+   events (tickers like `KXWCGAME-26JUL06PORESP`), then
+   `node daily-brief/fetch-market.cjs <event-ticker>` returns implied
+   percentages + traded volume. Put them in `prediction.market`
+   ({source, volume, legs:[{label, pct, cls: h|d|a}]}) — the generator
+   renders a LIVE MARKET strip — and quote them in the WHERE THE MONEY IS
+   factor. Robinhood's prediction markets are Kalshi-powered, so this covers
+   both. Keep `predictionsDisclaimer` present: this is entertainment, never
+   betting advice. The generator renders the page automatically.
 3. **Photos**: fetch any new star/key-man photos with `fetch-photo.cjs`
    (~20s between calls). Missing flags: `curl -o assets/flags/<code>.png
    https://flagcdn.com/w160/<code>.png` (ISO alpha-2; England = `gb-eng`).

@@ -401,10 +401,31 @@
           {
             "icon": "boot",
             "label": "WHERE THE MONEY IS",
-            "text": "Bookmakers price Spain around 52% to win in 90 minutes, the draw 27%, Portugal 25% — and prediction markets agree almost exactly."
+            "text": "Live on Kalshi's prediction market ($2.4m traded): Spain 51%, the draw 27%, Portugal 23% in regulation — bookmakers say the same. The money is quietly confident in Spain."
           }
         ],
-        "verdict": "Spain's control against Ronaldo's ruthlessness. The statistics say Spain; recent history says never count Portugal out. We take Spain narrowly — with a real chance this one goes the distance."
+        "verdict": "Spain's control against Ronaldo's ruthlessness. The statistics say Spain; recent history says never count Portugal out. We take Spain narrowly — with a real chance this one goes the distance.",
+        "market": {
+          "source": "Kalshi prediction market · regulation-time winner",
+          "volume": "$2.4m traded",
+          "legs": [
+            {
+              "label": "Portugal",
+              "pct": 23,
+              "cls": "h"
+            },
+            {
+              "label": "Tie",
+              "pct": 27,
+              "cls": "d"
+            },
+            {
+              "label": "Spain",
+              "pct": 51,
+              "cls": "a"
+            }
+          ]
+        }
       }
     },
     {
@@ -436,9 +457,9 @@
       "prediction": {
         "call": "USA 2–1",
         "probs": {
-          "home": 50,
-          "draw": 27,
-          "away": 23
+          "home": 42,
+          "draw": 28,
+          "away": 30
         },
         "advance": {
           "home": 62,
@@ -463,10 +484,31 @@
           {
             "icon": "boot",
             "label": "WHERE THE MONEY IS",
-            "text": "The market makes the USA clear favourites — around −190 against +175 for Belgium — and Balogun's reinstatement shortened those odds further."
+            "text": "The live market is tighter than the hype: Kalshi ($1.4m traded) has USA 40%, tie 29%, Belgium 34% in regulation — though to advance by any means, the USA are still priced near 65%."
           }
         ],
-        "verdict": "Home crowd, fresher legs and the leading scorer back in the side: everything points to the USA, provided they survive the moments of Belgian magic. A first quarter-final since 2002, says the crystal ball."
+        "verdict": "Home crowd, fresher legs and the leading scorer back — but the money says this is closer than it looks, and Belgium's path may run through extra time. We still take the USA and a first quarter-final since 2002, without much room to spare.",
+        "market": {
+          "source": "Kalshi prediction market · regulation-time winner",
+          "volume": "$1.4m traded",
+          "legs": [
+            {
+              "label": "USA",
+              "pct": 40,
+              "cls": "h"
+            },
+            {
+              "label": "Tie",
+              "pct": 29,
+              "cls": "d"
+            },
+            {
+              "label": "Belgium",
+              "pct": 34,
+              "cls": "a"
+            }
+          ]
+        }
       }
     }
   ],
