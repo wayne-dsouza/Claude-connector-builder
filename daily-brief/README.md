@@ -48,12 +48,15 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
    b. Copy `out/brief-<date>.html` to `out/morning-kickoff.html` and redeploy the
       Artifact with `url: https://claude.ai/code/artifact/9882aba5-ebdb-46aa-9fae-34c82e94bbda`
       (same URL every day — it's linked from the emails; keep favicon ⚽).
-   c. Create a Gmail **draft** to wayne@liquidmbs.fr + shanice@liquidmbs.fr:
-      subject `The Morning Kickoff #N — <top story>`, short HTML summary
-      (yesterday / tonight / golden boot) + button linking to the artifact URL
-      above. The Gmail connector cannot send or attach files — the draft is
-      ready-to-send; Wayne taps Send. Phrase the body around the link
-      ("read today's edition online"), do not promise an attachment.
+   c. Email both readers via Google Calendar (fully automated — the Gmail
+      connector is draft-only, so calendar invitations are the send channel):
+      create_event on wayne@liquidmbs.fr's calendar, attendees
+      wayne@liquidmbs.fr + shanice@liquidmbs.fr, notificationLevel ALL,
+      availability FREE, colorId 9, that day 07:30–07:45 Europe/Paris,
+      title `⚽ The Morning Kickoff #N — <top story>`, HTML description =
+      full morning summary (yesterday / tonight / tomorrow / golden boot /
+      bracket) + link to the artifact URL above. Google emails the invitation
+      to both attendees automatically.
 6. **Commit** the new data file + any new photos/flags and push to
    `claude/world-cup-daily-pdf-gwjr86`.
 7. If no matches were played yesterday (rest day), lead with previews and bracket.
