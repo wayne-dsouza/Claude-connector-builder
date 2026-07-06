@@ -5,123 +5,681 @@
   "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
   "stageLabel": "Knockout stage — Round of 16",
   "quickFacts": [
-    { "icon": "bracket", "text": "16 teams left — 8 by Tuesday night" },
-    { "icon": "boot", "text": "Golden Boot: three-way tie on 7 goals" },
-    { "icon": "trophy", "text": "Final: Sunday 19 July, MetLife Stadium" }
+    {
+      "icon": "bracket",
+      "text": "16 teams left — 8 by Tuesday night"
+    },
+    {
+      "icon": "boot",
+      "text": "Golden Boot: three-way tie on 7 goals"
+    },
+    {
+      "icon": "trophy",
+      "text": "Final: Sunday 19 July, MetLife Stadium"
+    }
   ],
   "hero": {
     "kicker": "UPSET OF THE TOURNAMENT",
     "headline": "GIANTS FALL IN NEW JERSEY",
-    "standfirst": "Erling Haaland struck twice in the last eleven minutes to send Brazil home and carry Norway into a World Cup quarter-final for the first time in the nation's history."
+    "standfirst": "Erling Haaland struck twice in the last eleven minutes to send Brazil home and carry Norway into a World Cup quarter-final for the first time in the nation's history — on the very pitch where the final will be played two weeks from now.",
+    "photo": "haaland",
+    "photoCaption": "Erling Haaland — two goals in eleven minutes, seven for the tournament",
+    "briefing": [
+      {
+        "icon": "whistle",
+        "text": "FIFA reversed Folarin Balogun's red-card suspension on review — the striker can face Belgium tonight."
+      },
+      {
+        "icon": "redcard",
+        "text": "England sweat on two: Quansah is suspended for the quarter-final, and Jordan Henderson hurt an arm in the post-match celebrations."
+      },
+      {
+        "icon": "calendar",
+        "text": "Last two round-of-16 ties tomorrow, rest day Wednesday — then the quarter-finals begin Thursday in Boston."
+      }
+    ]
   },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "Brazil 1–2 Norway — how the five-time champions were passed off their own party"
+    },
+    {
+      "page": "P.3",
+      "text": "Mexico 2–3 England — lightning, Bellingham and ten-man defiance at the Azteca"
+    },
+    {
+      "page": "P.4",
+      "text": "Tonight: the Iberian derby in Dallas, then the hosts face Belgium in Seattle"
+    },
+    {
+      "page": "P.5",
+      "text": "Golden Boot: Mbappé, Messi & Haaland locked on 7 — a World Cup first"
+    },
+    {
+      "page": "P.6",
+      "text": "The bracket, your week of football, and the road to MetLife"
+    }
+  ],
   "yesterday": [
     {
       "tag": "UPSET",
       "tagColor": "#e34948",
-      "stage": "Round of 16",
-      "home": { "name": "Brazil", "code": "br", "score": 1 },
-      "away": { "name": "Norway", "code": "no", "score": 2 },
+      "stage": "Round of 16 · QF3 slot",
+      "home": {
+        "name": "Brazil",
+        "code": "br",
+        "score": 1
+      },
+      "away": {
+        "name": "Norway",
+        "code": "no",
+        "score": 2
+      },
       "venue": "New York New Jersey Stadium, East Rutherford",
       "scorers": [
-        { "side": "away", "player": "Haaland", "minute": "79'", "note": "header" },
-        { "side": "away", "player": "Haaland", "minute": "90'", "note": "low drive" },
-        { "side": "home", "player": "Neymar", "minute": "90'+", "note": "pen" }
+        {
+          "side": "away",
+          "player": "Haaland",
+          "minute": "79'",
+          "note": "header"
+        },
+        {
+          "side": "away",
+          "player": "Haaland",
+          "minute": "90'",
+          "note": "low drive"
+        },
+        {
+          "side": "home",
+          "player": "Neymar",
+          "minute": "90'+",
+          "note": "pen"
+        }
       ],
-      "report": "Brazil dominated the ball but Norway struck where it hurts: Haaland headed home a 79th-minute cross, then arrowed a low finish from outside the box in the 90th. Neymar's stoppage-time penalty — his first goal of this World Cup — came too late. Norway are into the last eight for the first time ever; the five-time champions go home."
+      "stats": [
+        {
+          "label": "Possession %",
+          "home": 34,
+          "away": 55
+        },
+        {
+          "label": "Shots",
+          "home": 14,
+          "away": 9
+        },
+        {
+          "label": "On target",
+          "home": 4,
+          "away": 5
+        },
+        {
+          "label": "Accurate passes",
+          "home": 291,
+          "away": 581
+        }
+      ],
+      "facts": [
+        {
+          "icon": "bolt",
+          "text": "Brazil's 34% possession — their lowest ever recorded in a World Cup match"
+        },
+        {
+          "icon": "trophy",
+          "text": "Norway's first World Cup quarter-final in the nation's history"
+        },
+        {
+          "icon": "ball",
+          "text": "Haaland's brace takes him to 7 tournament goals — level with Mbappé and Messi"
+        }
+      ],
+      "report": "The stat sheet reads like a misprint: Brazil, the nation of jogo bonito, out-passed 581 to 291 in a knockout tie. Norway pressed high, moved the ball with total calm, and waited. On 79 minutes Haaland rose to head home a cross; in the 90th he collected the ball outside the box and arrowed a low drive past the goalkeeper. Brazil's 14 shots produced just four on target.",
+      "report2": "Neymar's stoppage-time penalty — his first goal of this World Cup — was no more than a farewell note. The five-time champions are out before the last eight, and a Norwegian side built on structure, running power and one unstoppable centre-forward marches on to Miami.",
+      "star": {
+        "photo": "haaland",
+        "name": "Erling Haaland",
+        "role": "Star of the match",
+        "line": "A header and a 25-yard low drive in eleven minutes. Seven goals in five games — and next up, England in Saturday's Miami quarter-final."
+      },
+      "aside": {
+        "photo": "neymar",
+        "name": "Neymar, 34",
+        "line": "His stoppage-time penalty — Brazil's only goal — may well be his final act at a World Cup."
+      },
+      "whatItMeans": "Norway meet England in Saturday's Miami quarter-final (23:00). Brazil go home earlier than at any World Cup in a generation.",
+      "timeline": [
+        {
+          "pos": 79,
+          "side": "away",
+          "label": "Haaland 79'",
+          "type": "goal"
+        },
+        {
+          "pos": 90,
+          "side": "away",
+          "label": "Haaland 90'",
+          "type": "goal"
+        },
+        {
+          "pos": 94,
+          "side": "home",
+          "label": "Neymar 90'+ (p)",
+          "type": "goal"
+        }
+      ]
     },
     {
       "tag": "CLASSIC",
       "tagColor": "#eda100",
-      "stage": "Round of 16",
-      "home": { "name": "England", "code": "gb-eng", "score": 3 },
-      "away": { "name": "Mexico", "code": "mx", "score": 2 },
-      "venue": "Estadio Azteca, Mexico City",
+      "stage": "Round of 16 · QF3 slot",
+      "home": {
+        "name": "Mexico",
+        "code": "mx",
+        "score": 2
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 3
+      },
+      "venue": "Estadio Azteca, Mexico City · Att. 80,824",
       "scorers": [
-        { "side": "home", "player": "Bellingham", "minute": "1H", "note": "brace" },
-        { "side": "home", "player": "Kane", "minute": "60'", "note": "pen" },
-        { "side": "away", "player": "Quiñones", "minute": "1H", "note": "" },
-        { "side": "away", "player": "Jiménez", "minute": "69'", "note": "pen" }
+        {
+          "side": "away",
+          "player": "Bellingham",
+          "minute": "36', 38'",
+          "note": "brace in 90 seconds"
+        },
+        {
+          "side": "away",
+          "player": "Kane",
+          "minute": "60'",
+          "note": "pen"
+        },
+        {
+          "side": "home",
+          "player": "Quiñones",
+          "minute": "42'",
+          "note": "header from a corner"
+        },
+        {
+          "side": "home",
+          "player": "Jiménez",
+          "minute": "69'",
+          "note": "pen"
+        }
       ],
       "events": [
-        { "icon": "redcard", "text": "Red card: Quansah (ENG), 2nd half — England finished with ten" }
+        {
+          "icon": "redcard",
+          "text": "Red card: Quansah (ENG), 2nd half — England finished the game with ten men"
+        }
       ],
-      "report": "A five-goal thriller at a rocking Azteca. Jude Bellingham's first-half brace and a Harry Kane penalty put England 3–1 up before Jarell Quansah saw red; Raúl Jiménez converted from the spot to set up a frantic finish, but ten-man England held on — ending Mexico's unbeaten home World Cup record on the ground where it was built."
+      "stats": [
+        {
+          "label": "Possession %",
+          "home": 63,
+          "away": 33
+        },
+        {
+          "label": "1st-half attempts",
+          "home": 7,
+          "away": 3
+        }
+      ],
+      "facts": [
+        {
+          "icon": "bolt",
+          "text": "Kick-off delayed an hour by lightning storms over Mexico City"
+        },
+        {
+          "icon": "ball",
+          "text": "England's 33% possession — their lowest at a World Cup since records began in 1966"
+        },
+        {
+          "icon": "whistle",
+          "text": "49 England clearances, their most in a World Cup game since 1990"
+        }
+      ],
+      "report": "An hour late after lightning storms, and worth every minute of the wait. Bellingham scored twice in the space of 90 seconds to silence 80,824 at the Azteca; Quiñones headed one back from a corner before the break. When Rangel brought down Gordon, Kane converted the 60th-minute penalty — then the match turned: Quansah saw red, VAR gave Mexico a penalty of their own, and Jiménez buried it.",
+      "report2": "The last twenty minutes were a siege. England made 49 clearances — their most at a World Cup since 1990 — and finished with 33% of the ball, their lowest on record. It didn't matter. Mexico's proud unbeaten home World Cup record ends on the ground where it was built, and England march on with what ESPN called the best away win in their history.",
+      "star": {
+        "photo": "bellingham",
+        "name": "Jude Bellingham",
+        "role": "Star of the match · rated 9.2",
+        "line": "Two goals in 90 seconds — the first man to score twice at the Azteca in a World Cup match since Diego Maradona in 1986."
+      },
+      "aside": {
+        "photo": "kane",
+        "name": "Harry Kane",
+        "line": "Ice-cold from the spot in front of a hostile wall of noise. Five tournament goals — two behind the leaders."
+      },
+      "whatItMeans": "England face Haaland's Norway in Miami on Saturday night — a heavyweight quarter-final between the tournament's form sides.",
+      "timeline": [
+        {
+          "pos": 36,
+          "side": "away",
+          "label": "Bellingham 36'",
+          "type": "goal"
+        },
+        {
+          "pos": 38,
+          "side": "away",
+          "label": "Bellingham 38'",
+          "type": "goal"
+        },
+        {
+          "pos": 42,
+          "side": "home",
+          "label": "Quiñones 42'",
+          "type": "goal"
+        },
+        {
+          "pos": 60,
+          "side": "away",
+          "label": "Kane 60' (p)",
+          "type": "goal"
+        },
+        {
+          "pos": 65,
+          "side": "away",
+          "label": "Quansah off",
+          "type": "red"
+        },
+        {
+          "pos": 69,
+          "side": "home",
+          "label": "Jiménez 69' (p)",
+          "type": "goal"
+        }
+      ]
     }
   ],
   "earlier": [
-    { "note": "Sat 4 July", "home": { "name": "Morocco", "code": "ma", "score": 3 }, "away": { "name": "Canada", "code": "ca", "score": 0 } },
-    { "note": "Sat 4 July", "home": { "name": "France", "code": "fr", "score": 1 }, "away": { "name": "Paraguay", "code": "py", "score": 0 } }
+    {
+      "note": "Sat 4 July",
+      "home": {
+        "name": "Morocco",
+        "code": "ma",
+        "score": 3
+      },
+      "away": {
+        "name": "Canada",
+        "code": "ca",
+        "score": 0
+      }
+    },
+    {
+      "note": "Sat 4 July",
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 1
+      },
+      "away": {
+        "name": "Paraguay",
+        "code": "py",
+        "score": 0
+      }
+    }
   ],
   "statTiles": [
-    { "value": "7–7–7", "label": "Mbappé, Messi & Haaland — first World Cup ever with three players on 7+ goals" },
-    { "value": "1st", "label": "Quarter-final in Norway's history — Brazil out before the last eight" },
-    { "value": "5", "label": "Goals in England 3–2 Mexico, the Azteca's first home KO defeat" }
+    {
+      "value": "7–7–7",
+      "label": "Mbappé, Messi & Haaland — first World Cup ever with three players on 7+ goals"
+    },
+    {
+      "value": "1st",
+      "label": "Quarter-final in Norway's history — Brazil out before the last eight"
+    },
+    {
+      "value": "80,824",
+      "label": "At the Azteca to see Mexico's first home World Cup defeat"
+    },
+    {
+      "value": "33%",
+      "label": "England's possession — their lowest at a World Cup since 1966"
+    }
   ],
   "today": [
     {
       "kicker": "THE IBERIAN DERBY",
-      "home": { "name": "Portugal", "code": "pt" },
-      "away": { "name": "Spain", "code": "es" },
+      "home": {
+        "name": "Portugal",
+        "code": "pt"
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es"
+      },
       "venue": "AT&T Stadium, Dallas",
       "timeFr": "21:00",
       "timeLocal": "3:00 PM ET",
-      "preview": "Neighbours, rivals, and two of the tournament's best attacks meet far from home. Mikel Oyarzabal (4 goals) leads a slick Spain side against a Portugal team that has looked ruthless in transition. The winner gets the USA or Belgium in Friday's Los Angeles quarter-final."
+      "preview": "Neighbours, rivals, and two of the tournament's best attacks meet far from home. Spain have looked the more controlled side, patient and suffocating in possession; Portugal have been ruthless in transition, scoring in bursts. European champions against Iberian pride — knockout football rarely gifts a derby this big, this early.",
+      "watch": [
+        "The midfield duel: Spain's control against Portugal's counter-punch",
+        "Winner faces the USA or Belgium in Friday's Los Angeles quarter-final"
+      ],
+      "keyMan": {
+        "photo": "oyarzabal",
+        "name": "Mikel Oyarzabal",
+        "team": "Spain",
+        "line": "Four goals this tournament, quietly among the Golden Boot chasers — and Spain's most reliable big-game finisher."
+      }
     },
     {
       "kicker": "HOSTS UNDER THE LIGHTS",
-      "home": { "name": "United States", "code": "us" },
-      "away": { "name": "Belgium", "code": "be" },
+      "home": {
+        "name": "United States",
+        "code": "us"
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be"
+      },
       "venue": "Lumen Field, Seattle",
       "timeFr": "02:00",
-      "timeFrNote": "night Mon→Tue",
+      "timeFrNote": "night Mon → Tue",
       "timeLocal": "8:00 PM ET",
-      "preview": "The co-hosts ride a wave of home support into Seattle — with a boost: FIFA reversed Folarin Balogun's red-card suspension, so the striker is free to lead the line. Belgium's golden-generation successors stand between the USMNT and a first quarter-final since 2002."
+      "preview": "The co-hosts ride a wave of home support into one of America's loudest stadiums — with a boost from the committee room: FIFA reversed Folarin Balogun's red-card suspension on review, freeing the striker to lead the line. Belgium's post-golden-generation side is dangerous but beatable, and Seattle will believe.",
+      "watch": [
+        "Balogun, reprieved, against a reshuffled Belgian back line",
+        "A first USMNT quarter-final since 2002 is 90 minutes away"
+      ],
+      "keyMan": {
+        "photo": "balogun",
+        "name": "Folarin Balogun",
+        "team": "United States",
+        "line": "Suspension overturned, point to prove. The Seattle crowd will make him the story of the night if he scores."
+      }
     }
   ],
   "goldenBoot": {
     "note": "Tie-break: assists, then minutes played. Mbappé leads on 2 assists.",
+    "podium": [
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 7,
+        "line": "2 assists — holds the tie-breaker"
+      },
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 7,
+        "line": "Plays Egypt tomorrow — a chance to pull clear"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Brace against Brazil — the man in form"
+      }
+    ],
     "players": [
-      { "player": "Kylian Mbappé", "team": "France", "code": "fr", "goals": 7, "detail": "2 assists" },
-      { "player": "Lionel Messi", "team": "Argentina", "code": "ar", "goals": 7, "detail": "" },
-      { "player": "Erling Haaland", "team": "Norway", "code": "no", "goals": 7, "detail": "brace vs Brazil" },
-      { "player": "Harry Kane", "team": "England", "code": "gb-eng", "goals": 5, "detail": "" },
-      { "player": "Vinícius Júnior", "team": "Brazil", "code": "br", "goals": 4, "detail": "eliminated" },
-      { "player": "Mikel Oyarzabal", "team": "Spain", "code": "es", "goals": 4, "detail": "plays today" },
-      { "player": "Ousmane Dembélé", "team": "France", "code": "fr", "goals": 4, "detail": "" }
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 7,
+        "detail": "2 assists"
+      },
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 7,
+        "detail": ""
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "brace vs Brazil"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": ""
+      },
+      {
+        "player": "Vinícius Júnior",
+        "team": "Brazil",
+        "code": "br",
+        "goals": 4,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 4,
+        "detail": "plays today"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 4,
+        "detail": ""
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "current"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": ""
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": ""
+      },
+      {
+        "label": "FINAL",
+        "sub": "19 Jul",
+        "state": ""
+      }
     ]
   },
   "bracket": {
     "quarterFinals": [
-      { "day": "Thu 9 July", "timeFr": "22:00", "venue": "Boston", "home": { "name": "France", "code": "fr" }, "away": { "name": "Morocco", "code": "ma" }, "confirmed": true },
-      { "day": "Fri 10 July", "timeFr": "18:00", "venue": "Los Angeles", "home": { "name": "USA / Belgium", "codes": ["us", "be"] }, "away": { "name": "Portugal / Spain", "codes": ["pt", "es"] }, "confirmed": false },
-      { "day": "Sat 11 July", "timeFr": "23:00", "venue": "Miami", "home": { "name": "Norway", "code": "no" }, "away": { "name": "England", "code": "gb-eng" }, "confirmed": true },
-      { "day": "Sun 12 July", "timeFr": "02:00 (+1)", "venue": "Kansas City", "home": { "name": "Argentina / Egypt", "codes": ["ar", "eg"] }, "away": { "name": "Switzerland / Colombia", "codes": ["ch", "co"] }, "confirmed": false }
+      {
+        "day": "Thu 9 July",
+        "timeFr": "22:00",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Fri 10 July",
+        "timeFr": "18:00",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "USA / Belgium",
+          "codes": [
+            "us",
+            "be"
+          ]
+        },
+        "away": {
+          "name": "Portugal / Spain",
+          "codes": [
+            "pt",
+            "es"
+          ]
+        },
+        "confirmed": false
+      },
+      {
+        "day": "Sat 11 July",
+        "timeFr": "23:00",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Sun 12 July",
+        "timeFr": "02:00 (+1)",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina / Egypt",
+          "codes": [
+            "ar",
+            "eg"
+          ]
+        },
+        "away": {
+          "name": "Switzerland / Colombia",
+          "codes": [
+            "ch",
+            "co"
+          ]
+        },
+        "confirmed": false
+      }
     ],
     "semiFinals": [
-      { "day": "Tue 14 July", "venue": "Dallas", "label": "Winners QF1 vs QF2" },
-      { "day": "Wed 15 July", "venue": "Atlanta", "label": "Winners QF3 vs QF4" }
+      {
+        "day": "Tue 14 July",
+        "venue": "Dallas",
+        "label": "Winners QF1 vs QF2"
+      },
+      {
+        "day": "Wed 15 July",
+        "venue": "Atlanta",
+        "label": "Winners QF3 vs QF4"
+      }
     ],
-    "final": { "day": "Sunday 19 July", "venue": "MetLife Stadium, New York / New Jersey" }
-  },
-  "stageTracker": {
-    "note": "13 days to the final",
-    "stages": [
-      { "label": "GROUPS", "sub": "11–27 Jun", "state": "done" },
-      { "label": "ROUND OF 32", "sub": "28 Jun–3 Jul", "state": "done" },
-      { "label": "ROUND OF 16", "sub": "4–7 Jul", "state": "current" },
-      { "label": "QUARTERS", "sub": "9–12 Jul", "state": "" },
-      { "label": "SEMIS", "sub": "14–15 Jul", "state": "" },
-      { "label": "FINAL", "sub": "19 Jul", "state": "" }
-    ]
+    "final": {
+      "day": "Sunday 19 July",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
   },
   "week": [
-    { "day": "MON", "date": "6 Jul", "highlight": true, "items": ["Portugal–Spain · 21:00", "USA–Belgium · 02:00"] },
-    { "day": "TUE", "date": "7 Jul", "highlight": false, "items": ["Argentina–Egypt · 18:00", "Switzerland–Colombia · 22:00"] },
-    { "day": "WED", "date": "8 Jul", "highlight": false, "items": ["Rest day — last 8 set"] },
-    { "day": "THU", "date": "9 Jul", "highlight": false, "items": ["QF1 France–Morocco · 22:00"] },
-    { "day": "FRI", "date": "10 Jul", "highlight": false, "items": ["QF2 in Los Angeles · 18:00"] },
-    { "day": "SAT", "date": "11 Jul", "highlight": false, "items": ["QF3 Norway–England · 23:00"] },
-    { "day": "SUN", "date": "12 Jul", "highlight": false, "items": ["QF4 in Kansas City · 02:00 (+1)"] }
+    {
+      "day": "MON",
+      "date": "6 Jul",
+      "highlight": true,
+      "items": [
+        "Portugal–Spain · 21:00",
+        "USA–Belgium · 02:00"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "7 Jul",
+      "highlight": false,
+      "items": [
+        "Argentina–Egypt · 18:00",
+        "Switzerland–Colombia · 22:00"
+      ]
+    },
+    {
+      "day": "WED",
+      "date": "8 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day — last 8 set"
+      ]
+    },
+    {
+      "day": "THU",
+      "date": "9 Jul",
+      "highlight": false,
+      "items": [
+        "QF1 France–Morocco · 22:00"
+      ]
+    },
+    {
+      "day": "FRI",
+      "date": "10 Jul",
+      "highlight": false,
+      "items": [
+        "QF2 in Los Angeles · 18:00"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "11 Jul",
+      "highlight": false,
+      "items": [
+        "QF3 Norway–England · 23:00"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "12 Jul",
+      "highlight": false,
+      "items": [
+        "QF4 in Kansas City · 02:00 (+1)"
+      ]
+    }
   ],
-  "sources": "Results & schedule: ESPN, CBS Sports, Yahoo Sports, Al Jazeera, FOX Sports, Goal.com — checked morning of 6 July 2026. Kick-off times shown in French time (CEST)."
+  "signoff": "Next edition: the last two quarter-finalists — Argentina–Egypt and Switzerland–Colombia reports, plus the full last-eight preview.",
+  "sources": "Results & stats: ESPN, CBS Sports, Yahoo Sports, Al Jazeera, Opta Analyst, NBC, FOX Sports, Goal.com — checked morning of 6 July 2026. Kick-off times in French time (CEST).",
+  "tomorrow": [
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar"
+      },
+      "away": {
+        "name": "Egypt",
+        "code": "eg"
+      },
+      "timeFr": "18:00"
+    },
+    {
+      "home": {
+        "name": "Switzerland",
+        "code": "ch"
+      },
+      "away": {
+        "name": "Colombia",
+        "code": "co"
+      },
+      "timeFr": "22:00"
+    }
+  ]
 }
