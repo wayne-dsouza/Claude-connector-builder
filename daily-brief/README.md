@@ -32,9 +32,11 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
 
 1. **Research**: previous day's matches (scores, scorers + exact minutes, cards,
    match stats — possession/shots/passes from Opta-style sources, attendance,
-   storylines, star performers), today's fixtures (venues, kick-off ET → French
-   time = ET+6h), Golden Boot standings, bracket state, week ahead. Verify facts
-   across at least two sources; don't state squad details you haven't verified.
+   storylines, star performers), today's fixtures (venues, kick-off in UTC —
+   record it as `kickUtc` on each fixture; the generator renders kick-off chips
+   for all reader time zones: FR/ES/AT, Bulgaria, India, Mexico City), Golden
+   Boot standings, bracket state, week ahead. Verify facts across at least two
+   sources; don't state squad details you haven't verified.
 2. **Data file**: write `data/<today>.json` (copy previous edition's structure;
    bump `editionNumber`; refresh hero, briefing, insideToday, timelines, stats,
    stageTracker, week, tomorrow, statTiles, signoff, sources).
@@ -58,7 +60,9 @@ NODE_PATH=/opt/node22/lib/node_modules node daily-brief/generate.cjs daily-brief
       title `⚽ The Morning Kickoff #N — <top story>`. HTML description: the
       raw.githubusercontent.com PDF link FIRST ("📄 DOWNLOAD TODAY'S PDF"),
       then the morning summary (yesterday / tonight / tomorrow / golden boot /
-      bracket). Also pass the PDF link as an attachment
+      bracket). Give tonight's kick-offs in all four family time zones, e.g.
+      "21:00 France·Spain·Austria / 22:00 Bulgaria / 00:30 India (+1) / 13:00
+      Mexico". Also pass the PDF link as an attachment
       (`attachments: [{fileUrl, title}]`). Do NOT link the Claude artifact in
       the invite (it requires a Claude login). Google emails the invitation to
       both attendees automatically.

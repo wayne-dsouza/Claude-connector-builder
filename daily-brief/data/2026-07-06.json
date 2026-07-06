@@ -365,7 +365,8 @@
         "name": "Mikel Oyarzabal",
         "team": "Spain",
         "line": "Four goals this tournament, quietly among the Golden Boot chasers — and Spain's most reliable big-game finisher."
-      }
+      },
+      "kickUtc": "2026-07-06T19:00:00Z"
     },
     {
       "kicker": "HOSTS UNDER THE LIGHTS",
@@ -391,7 +392,8 @@
         "name": "Folarin Balogun",
         "team": "United States",
         "line": "Suspension overturned, point to prove. The Seattle crowd will make him the story of the night if he scores."
-      }
+      },
+      "kickUtc": "2026-07-07T00:00:00Z"
     }
   ],
   "goldenBoot": {

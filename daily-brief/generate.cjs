@@ -202,6 +202,24 @@ function reportPage(m, idx, total, pageNo) {
 </div>`;
 }
 
+/* --------------------------------------------------- kick-off time zones -- */
+const ZONES = [
+  { tz: 'Europe/Paris', flags: ['fr', 'es', 'at'] },
+  { tz: 'Europe/Sofia', flags: ['bg'] },
+  { tz: 'Asia/Kolkata', flags: ['in'] },
+  { tz: 'America/Mexico_City', flags: ['mx'] },
+];
+function zoneChips(kickUtc) {
+  if (!kickUtc) return '';
+  const d = new Date(kickUtc);
+  return `<div class="tz-row">${ZONES.map((z) => {
+    const time = new Intl.DateTimeFormat('en-GB', { timeZone: z.tz, hour: '2-digit', minute: '2-digit', hour12: false }).format(d);
+    const localDate = new Intl.DateTimeFormat('en-CA', { timeZone: z.tz, year: 'numeric', month: '2-digit', day: '2-digit' }).format(d);
+    const marker = localDate > data.edition ? '+1' : localDate < data.edition ? '−1' : '';
+    return `<span class="tz-chip">${z.flags.map((fl) => flag(fl, 'flag flag-xxs')).join('')}<b>${time}</b>${marker ? `<em>${marker}</em>` : ''}</span>`;
+  }).join('')}</div>`;
+}
+
 function fixtureCard(f) {
   return `<div class="card fixture-card">
     <div class="fx-kicker">${esc(f.kicker)}</div>
@@ -212,9 +230,9 @@ function fixtureCard(f) {
           <div class="fx-vs">VS</div>
           <div class="fx-team fx-away"><span>${esc(f.away.name)}</span>${flag(f.away.code, 'flag flag-lg')}</div>
         </div>
+        ${f.kickUtc ? zoneChips(f.kickUtc) : `<span class="time-chip">${icon('clock', 11)}${esc(f.timeFr)}${f.timeFrNote ? `<em>${esc(f.timeFrNote)}</em>` : ''}</span>`}
         <div class="fx-meta">
-          <span class="time-chip">${icon('clock', 11)}${esc(f.timeFr)}${f.timeFrNote ? `<em>${esc(f.timeFrNote)}</em>` : ''}</span>
-          <span class="fx-local">${esc(f.timeLocal)} local</span>
+          <span class="fx-local">Kick-off ${esc(f.timeLocal)} at the stadium</span>
           <span class="fx-venue">${icon('pin', 10, '#898781')}${esc(f.venue)}</span>
         </div>
         <p class="fx-preview">${esc(f.preview)}</p>
@@ -488,6 +506,13 @@ const CSS = `
   .km-name { font-size:14px; font-weight:bold; padding:2px 12px 0; }
   .km-line { font-size:9.6px; line-height:1.45; color:var(--ink2); padding:4px 12px 11px; }
 
+  /* kick-off zone chips */
+  .flag-xxs { width:15px; height:11px; border-radius:2px; }
+  .tz-row { display:flex; gap:7px; margin:2px 0 9px; }
+  .tz-chip { display:inline-flex; align-items:center; gap:5px; background:var(--navy); color:#fff; border-radius:6px; padding:5px 10px; font-size:12px; font-weight:bold; }
+  .tz-chip b { font-variant-numeric:tabular-nums; }
+  .tz-chip em { font-style:normal; font-size:8px; font-weight:bold; color:#eda100; }
+
   /* golden boot */
   .podium { display:flex; gap:12px; }
   .pd-card { flex:1; background:#fff; border:1px solid var(--grid); border-radius:11px; overflow:hidden; box-shadow:0 1px 3px rgba(11,11,11,.05); }
@@ -626,7 +651,7 @@ const coverPage = `<div class="page">
       </div>
     </div>
     <div class="teaser">
-      <span class="teaser-k">TONIGHT ON YOUR SCREEN</span>
+      <span class="teaser-k">TONIGHT (FRENCH TIME)</span>
       ${data.today.map((f) => `<span class="teaser-m">${flag(f.home.code, 'flag flag-sm')} ${esc(f.home.name)} – ${esc(f.away.name)} ${flag(f.away.code, 'flag flag-sm')} <span class="t-time">${esc(f.timeFr)}</span></span>`).join('')}
       <span class="teaser-arrow">FULL PREVIEWS PAGE 4 ${icon('arrow', 12)}</span>
     </div>
