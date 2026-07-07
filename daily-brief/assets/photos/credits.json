@@ -46,5 +46,41 @@
     "artist": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg"
+  },
+  "ronaldo": {
+    "file": "File:Cristiano_Ronaldo_2275_(cropped).jpg",
+    "artist": "YantsImages",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2275_(cropped).jpg"
+  },
+  "merino": {
+    "file": "File:Spain_football_team_in_2025_Mikel_Merino.jpg",
+    "artist": "Biso",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spain_football_team_in_2025_Mikel_Merino.jpg"
+  },
+  "deketelaere": {
+    "file": "File:Charles_De_Ketelaere_USMNT_v_Belgium_Mar_28_2026-76_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Charles_De_Ketelaere_USMNT_v_Belgium_Mar_28_2026-76_(cropped).jpg"
+  },
+  "salah": {
+    "file": "File:Mohamed_Salah_2018.jpg",
+    "artist": "Анна Нэсси",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mohamed_Salah_2018.jpg"
+  },
+  "tillman": {
+    "file": "File:Malik_Tillman_Australia_v_USA_19_June_2026-143_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Malik_Tillman_Australia_v_USA_19_June_2026-143_(cropped).jpg"
+  },
+  "diaz": {
+    "file": "File:FC_RB_Salzburg_gegen_FC_Bayern_München_(2026-01-06_Testspiel)_40_(Luiz_Díaz).jpg",
+    "artist": "Werner100359",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_(2026-01-06_Testspiel)_40_(Luiz_D%C3%ADaz).jpg"
   }
 }

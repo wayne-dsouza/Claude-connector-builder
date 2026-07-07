@@ -503,8 +503,8 @@ const CSS = `
   .wim b { letter-spacing:1.5px; font-size:9px; color:var(--gold); }
 
   /* earlier strip */
-  .earlier { display:flex; gap:10px; }
-  .early { flex:1; display:flex; align-items:center; gap:8px; background:var(--plane); border:1px solid var(--grid); border-radius:8px; padding:12px 14px; font-size:11px; }
+  .earlier { display:flex; flex-wrap:wrap; gap:10px; }
+  .early { flex:1 1 44%; display:flex; align-items:center; gap:8px; background:var(--plane); border:1px solid var(--grid); border-radius:8px; padding:12px 14px; font-size:11px; }
   .early b { font-size:13px; }
   .early .e-score { font-weight:bold; color:var(--navy); font-size:13px; margin:0 4px; }
   .early .e-note { margin-left:auto; color:var(--muted); font-size:8.5px; }
@@ -728,7 +728,7 @@ const todayPage = `<div class="page">
   ${pageHead('TODAY ON THE PITCH', 'Two places in the quarter-finals up for grabs')}
   <div class="body">
     ${data.today.map(fixtureCard).join('')}
-    ${sectionHead('ball', 'EARLIER IN THE ROUND OF 16', 'The weekend results')}
+    ${sectionHead('ball', data.earlierTitle || 'EARLIER RESULTS', data.earlierSub || '')}
     <div class="earlier">
       ${data.earlier
         .map(
@@ -742,7 +742,7 @@ const todayPage = `<div class="page">
         .join('')}
     </div>
     <div class="teaser">
-      <span class="teaser-k">TOMORROW — THE LAST-EIGHT DECIDERS</span>
+      <span class="teaser-k">${esc(data.tomorrowLabel || 'TOMORROW')}</span>
       ${(data.tomorrow || []).map((f) => `<span class="teaser-m">${flag(f.home.code, 'flag flag-sm')} ${esc(f.home.name)} – ${esc(f.away.name)} ${flag(f.away.code, 'flag flag-sm')} <span class="t-time">${esc(f.timeFr)}</span></span>`).join('')}
     </div>
   </div>
