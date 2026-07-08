@@ -1,0 +1,633 @@
+{
+  "edition": "2026-07-08",
+  "editionNumber": 3,
+  "dateLabel": "Wednesday 8 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "Rest day — quarter-finals from Thursday",
+  "quickFacts": [
+    {
+      "icon": "boot",
+      "text": "Messi leads the Golden Boot outright on 8 goals"
+    },
+    {
+      "icon": "bracket",
+      "text": "The last eight are set — quarter-finals start Thursday"
+    },
+    {
+      "icon": "trophy",
+      "text": "Switzerland reach a first quarter-final since 1954"
+    }
+  ],
+  "hero": {
+    "kicker": "CHAMPIONS DO CHAMPION THINGS",
+    "headline": "MESSI'S ELEVEN-MINUTE MIRACLE",
+    "standfirst": "Two goals down with eleven minutes left, a penalty already missed — and then Argentina scored three times to break Egypt's hearts, Messi taking the Golden Boot lead in the middle of it. In Vancouver, Switzerland and Colombia needed penalties after 120 goalless minutes, and Gregor Kobel sent the Swiss into a first quarter-final in 72 years.",
+    "photo": "messi",
+    "photoCaption": "Lionel Messi — a missed penalty, an assist, and his 8th goal of the tournament, all in one night",
+    "briefing": [
+      {
+        "icon": "star",
+        "text": "Crystal Ball, day two: Argentina called correctly (if far less comfortably than predicted); Colombia didn't land — though the verdict did warn of penalties in Vancouver."
+      },
+      {
+        "icon": "whistle",
+        "text": "Egypt goalkeeper Mostafa Shoubir saved a Messi penalty and led 2–0 with 11 minutes left — the fairy tale died very, very hard."
+      },
+      {
+        "icon": "calendar",
+        "text": "No football today. The quarter-finals begin Thursday: France–Morocco in Boston, then one tie a day through Sunday."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "Argentina 3–2 Egypt — the comeback of the tournament, minute by minute"
+    },
+    {
+      "page": "P.3",
+      "text": "Switzerland 0–0 Colombia (4–3 pens) — Kobel's wall and a 72-year wait ended"
+    },
+    {
+      "page": "P.4",
+      "text": "The quarter-final card: France–Morocco and Spain–Belgium up first"
+    },
+    {
+      "page": "P.5",
+      "text": "Golden Boot: Messi finally alone at the top — Mbappé and Haaland one behind"
+    },
+    {
+      "page": "P.6",
+      "text": "The completed bracket and your week to the final"
+    }
+  ],
+  "yesterday": [
+    {
+      "tag": "COMEBACK",
+      "tagColor": "#e34948",
+      "stage": "Round of 16 · QF4 slot",
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 3
+      },
+      "away": {
+        "name": "Egypt",
+        "code": "eg",
+        "score": 2
+      },
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "scorers": [
+        {
+          "side": "home",
+          "player": "Romero",
+          "minute": "79'",
+          "note": "from a Messi cross"
+        },
+        {
+          "side": "home",
+          "player": "Messi",
+          "minute": "83'",
+          "note": "his 8th"
+        },
+        {
+          "side": "home",
+          "player": "Enzo Fernández",
+          "minute": "90'+2",
+          "note": ""
+        },
+        {
+          "side": "away",
+          "player": "Ibrahim",
+          "minute": "15'",
+          "note": "header"
+        },
+        {
+          "side": "away",
+          "player": "Ziko",
+          "minute": "67'",
+          "note": ""
+        }
+      ],
+      "stats": [
+        {
+          "label": "Possession %",
+          "home": 57,
+          "away": 34
+        },
+        {
+          "label": "Total attempts",
+          "home": 19,
+          "away": 5
+        },
+        {
+          "label": "On target",
+          "home": 7,
+          "away": 2
+        }
+      ],
+      "facts": [
+        {
+          "icon": "whistle",
+          "text": "Goalkeeper Mostafa Shoubir saved Messi's first-half penalty — and Egypt led 2–0 until the 79th minute"
+        },
+        {
+          "icon": "boot",
+          "text": "Messi's 83rd-minute strike was his 8th of the tournament — the outright Golden Boot lead"
+        },
+        {
+          "icon": "bolt",
+          "text": "Argentina scored three times in 13 minutes after going 25 games' worth of knockout pedigree into the red"
+        }
+      ],
+      "report": "Egypt did everything but finish the job. Yasser Ibrahim's 15th-minute header from a corner, a Messi penalty pushed away by Mostafa Shoubir minutes later, and a second from Mostafa Ziko on 67 — the champions were two down, out of ideas, and out of time. Atlanta braced for the shock of the tournament.",
+      "report2": "Then Argentina remembered who they are. Cristian Romero headed in Messi's cross on 79, Messi swept in the equaliser on 83 — his eighth, and the Golden Boot lead — and Enzo Fernández completed the turnaround in stoppage time. Nineteen attempts to five tells you the pressure never stopped; champions simply refuse to lose until the maths says they must.",
+      "star": {
+        "photo": "messi",
+        "name": "Lionel Messi",
+        "role": "Star of the match",
+        "line": "A saved penalty would have broken most players. Instead, at 39: the cross for Romero, the equaliser for the Golden Boot lead, and one more quarter-final. His tournament now runs through Switzerland on Sunday."
+      },
+      "aside": {
+        "photo": "enzo",
+        "name": "Enzo Fernández",
+        "line": "The stoppage-time winner that turned a great escape into a statement. Argentina's engine room delivered when the legs of others had gone."
+      },
+      "whatItMeans": "Argentina meet Switzerland in Sunday's Kansas City quarter-final (02:00 +1). Egypt exit their finest World Cup one hurdle short of history.",
+      "timeline": [
+        {
+          "pos": 15,
+          "side": "away",
+          "label": "Ibrahim 15'",
+          "type": "goal"
+        },
+        {
+          "pos": 67,
+          "side": "away",
+          "label": "Ziko 67'",
+          "type": "goal"
+        },
+        {
+          "pos": 79,
+          "side": "home",
+          "label": "Romero 79'",
+          "type": "goal"
+        },
+        {
+          "pos": 83,
+          "side": "home",
+          "label": "Messi 83'",
+          "type": "goal"
+        },
+        {
+          "pos": 93,
+          "side": "home",
+          "label": "Enzo 90'+2",
+          "type": "goal"
+        }
+      ]
+    },
+    {
+      "tag": "SHOOTOUT",
+      "tagColor": "#eda100",
+      "stage": "Round of 16 · QF4 slot · 0–0 aet, 4–3 pens",
+      "home": {
+        "name": "Switzerland",
+        "code": "ch",
+        "score": 0
+      },
+      "away": {
+        "name": "Colombia",
+        "code": "co",
+        "score": 0
+      },
+      "venue": "BC Place, Vancouver",
+      "scorers": [
+        {
+          "side": "home",
+          "player": "Vargas",
+          "minute": "pens",
+          "note": "winning kick"
+        },
+        {
+          "side": "away",
+          "player": "Hernández",
+          "minute": "pens",
+          "note": "saved by Kobel"
+        }
+      ],
+      "stats": [],
+      "facts": [
+        {
+          "icon": "bolt",
+          "text": "Colombia's xG of 1.03 to 0.35 tells the story: Lucumí hit the crossbar and Campaz blazed over in extra time"
+        },
+        {
+          "icon": "whistle",
+          "text": "Kobel saved Hernández's kick in the shootout; Akanji's own miss didn't matter in the end"
+        },
+        {
+          "icon": "trophy",
+          "text": "Switzerland are in a World Cup quarter-final for the first time since 1954 — a 72-year wait"
+        }
+      ],
+      "report": "Exactly the match the market predicted: 120 minutes, no goals, and the finest of margins. Colombia created what chances there were — Lucumí rattled the crossbar and Campaz fired over in extra time, their 1.03 xG dwarfing Switzerland's 0.35 — but the Swiss block never cracked, and the night went where it always felt destined to go.",
+      "report2": "In the shootout, Gregor Kobel dived to keep out Carlos Hernández's kick, and even Manuel Akanji's miss couldn't swing it back: Ruben Vargas swept in the winner for 4–3. Switzerland reach the last eight of a World Cup for the first time since 1954, and Colombia go home having lost, in the truest sense, to nobody.",
+      "star": {
+        "photo": "kobel",
+        "name": "Gregor Kobel",
+        "role": "Star of the match",
+        "line": "A clean sheet through 120 minutes behind a creaking block, then the decisive save in the shootout. Switzerland's 72-year wait ended on his gloves."
+      },
+      "aside": {
+        "photo": "vargas",
+        "name": "Ruben Vargas",
+        "line": "The man for the moment that mattered most — the winning penalty, buried without a flicker of doubt."
+      },
+      "whatItMeans": "Switzerland meet Argentina in Sunday's Kansas City quarter-final. The reward for 120 minutes of discipline: the champions of the world.",
+      "timeline": []
+    }
+  ],
+  "earlier": [
+    {
+      "note": "Mon",
+      "home": {
+        "name": "Portugal",
+        "code": "pt",
+        "score": 0
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      }
+    },
+    {
+      "note": "Mon",
+      "home": {
+        "name": "United States",
+        "code": "us",
+        "score": 1
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be",
+        "score": 4
+      }
+    },
+    {
+      "note": "Sun",
+      "home": {
+        "name": "Brazil",
+        "code": "br",
+        "score": 1
+      },
+      "away": {
+        "name": "Norway",
+        "code": "no",
+        "score": 2
+      }
+    },
+    {
+      "note": "Sun",
+      "home": {
+        "name": "Mexico",
+        "code": "mx",
+        "score": 2
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 3
+      }
+    }
+  ],
+  "earlierTitle": "HOW THE LAST EIGHT WAS SETTLED",
+  "earlierSub": "The other round-of-16 results",
+  "statTiles": [
+    {
+      "value": "8",
+      "label": "Messi's tournament goals — the outright Golden Boot lead, at 39 years old"
+    },
+    {
+      "value": "11'",
+      "label": "Minutes left when Argentina, 2–0 down, began the comeback of the tournament"
+    },
+    {
+      "value": "1954",
+      "label": "The last time Switzerland reached a World Cup quarter-final — until last night"
+    },
+    {
+      "value": "1.03",
+      "label": "Colombia's xG in Vancouver against 0.35 — and still they went home"
+    }
+  ],
+  "todayTitle": "NEXT UP: THE QUARTER-FINALS",
+  "todaySub": "Rest day today — the last eight begins Thursday",
+  "today": [
+    {
+      "kicker": "QF1 · THURSDAY · BOSTON",
+      "home": {
+        "name": "France",
+        "code": "fr"
+      },
+      "away": {
+        "name": "Morocco",
+        "code": "ma"
+      },
+      "venue": "Gillette Stadium, Boston",
+      "timeFr": "Thu 22:00",
+      "timeLocal": "4:00 PM ET",
+      "preview": "A rematch of the 2022 semi-final, and the tie of the round. France have cruised on Mbappé's seven goals and Dembélé's wing play; Morocco arrive as the best defensive side of the knockouts bar Spain, fresh from dismantling Canada 3–0. In 2022 they ran out of miracles against exactly this opponent — Thursday tells us if this squad is different.",
+      "watch": [
+        "Mbappé, one behind Messi, against the defence that shut out Canada",
+        "Winner faces Spain or Belgium in Tuesday's Dallas semi-final"
+      ],
+      "keyMan": {
+        "photo": "mbappe",
+        "name": "Kylian Mbappé",
+        "team": "France",
+        "line": "Seven goals, two assists, and the memory of 2022 — the last time Morocco stood between France and a semi-final, he was on the winning side."
+      }
+    },
+    {
+      "kicker": "QF2 · FRIDAY · LOS ANGELES",
+      "home": {
+        "name": "Spain",
+        "code": "es"
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be"
+      },
+      "venue": "SoFi Stadium, Los Angeles",
+      "timeFr": "Fri 18:00",
+      "timeLocal": "9:00 AM PT",
+      "preview": "The tournament's meanest defence against its suddenly hottest attack. Spain have not conceded a single goal in five games; Belgium just put four past the hosts in their sharpest display in years. Something gives on Friday — and the winner will fancy themselves in the semi-final.",
+      "watch": [
+        "Spain's five straight clean sheets against De Ketelaere's new-found ruthlessness",
+        "Oyarzabal (4 goals) quietly stalking the Golden Boot podium"
+      ],
+      "keyMan": {
+        "photo": "deketelaere",
+        "name": "Charles De Ketelaere",
+        "team": "Belgium",
+        "line": "Two goals against the USA announced him as Belgium's new tournament talisman. Now the hardest assignment in football: finding a way past a Spain defence that hasn't blinked in five games."
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 2 winners called from 4.",
+  "goldenBoot": {
+    "note": "Tie-break: assists, then minutes played. Messi now leads outright; Mbappé holds 2nd on assists.",
+    "podium": [
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "The equaliser against Egypt put him clear at the top, at 39"
+      },
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 7,
+        "line": "Plays Morocco Thursday — 2 assists keep him ahead of Haaland"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Waits for England on Saturday night in Miami"
+      }
+    ],
+    "players": [
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "leader"
+      },
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 7,
+        "detail": "2 assists · plays Thu"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "plays Sat"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "plays Sat"
+      },
+      {
+        "player": "Vinícius Júnior",
+        "team": "Brazil",
+        "code": "br",
+        "goals": 4,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 4,
+        "detail": "plays Fri"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 4,
+        "detail": "plays Thu"
+      }
+    ],
+    "sub": "Messi alone at the top — and every chaser plays this week"
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "current"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": ""
+      },
+      {
+        "label": "FINAL",
+        "sub": "19 Jul",
+        "state": ""
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "Thu 9 July",
+        "timeFr": "22:00",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Fri 10 July",
+        "timeFr": "18:00",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Sat 11 July",
+        "timeFr": "23:00",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Sun 12 July",
+        "timeFr": "02:00 (+1)",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "Tue 14 July",
+        "venue": "Dallas",
+        "label": "Winners QF1 vs QF2"
+      },
+      {
+        "day": "Wed 15 July",
+        "venue": "Atlanta",
+        "label": "Winners QF3 vs QF4"
+      }
+    ],
+    "final": {
+      "day": "Sunday 19 July",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
+  },
+  "week": [
+    {
+      "day": "WED",
+      "date": "8 Jul",
+      "highlight": true,
+      "items": [
+        "Rest day — catch your breath"
+      ]
+    },
+    {
+      "day": "THU",
+      "date": "9 Jul",
+      "highlight": false,
+      "items": [
+        "QF1 France–Morocco · 22:00"
+      ]
+    },
+    {
+      "day": "FRI",
+      "date": "10 Jul",
+      "highlight": false,
+      "items": [
+        "QF2 Spain–Belgium · 18:00"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "11 Jul",
+      "highlight": false,
+      "items": [
+        "QF3 Norway–England · 23:00"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "12 Jul",
+      "highlight": false,
+      "items": [
+        "QF4 Argentina–Switzerland · 02:00 (+1)"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "13 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day — semi-finals loom"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "14 Jul",
+      "highlight": false,
+      "items": [
+        "Semi-final 1 in Dallas"
+      ]
+    }
+  ],
+  "tomorrowLabel": "TOMORROW: QF1 — FRANCE–MOROCCO IN BOSTON, 22:00",
+  "tomorrow": [],
+  "signoff": "Next edition: the quarter-finals are ON — France–Morocco report, the full Spain–Belgium preview, and the Crystal Ball returns with live market prices.",
+  "sources": "Results & stats: FIFA, ESPN, CBS Sports, FOX Sports, Al Jazeera, Olympics.com, NBC — checked morning of 8 July 2026. Live market prices: Kalshi. Kick-off times in Central European Time unless flagged otherwise."
+}

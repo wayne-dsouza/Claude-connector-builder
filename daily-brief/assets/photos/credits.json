@@ -82,5 +82,23 @@
     "artist": "Werner100359",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:FC_RB_Salzburg_gegen_FC_Bayern_M%C3%BCnchen_(2026-01-06_Testspiel)_40_(Luiz_D%C3%ADaz).jpg"
+  },
+  "enzo": {
+    "file": "File:Enzo_Fernández_2025_FIFA_Club_World_Cup_Final.jpg",
+    "artist": "The White House",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Enzo_Fern%C3%A1ndez_2025_FIFA_Club_World_Cup_Final.jpg"
+  },
+  "kobel": {
+    "file": "File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank–090.jpg",
+    "artist": "Sandro Halank, Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2023-08-12_TSV_Schott_Mainz_gegen_Borussia_Dortmund_(DFB-Pokal_2023-24)_by_Sandro_Halank%E2%80%93090.jpg"
+  },
+  "vargas": {
+    "file": "File:Ruben_Vargas_SFV_2019.jpg",
+    "artist": "Schweizerischer Fussballverband (SFV / ASF)",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ruben_Vargas_SFV_2019.jpg"
   }
 }

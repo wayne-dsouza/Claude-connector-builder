@@ -725,7 +725,7 @@ const reportPages = data.yesterday
   .join('');
 
 const todayPage = `<div class="page">
-  ${pageHead('TODAY ON THE PITCH', 'Two places in the quarter-finals up for grabs')}
+  ${pageHead(data.todayTitle || 'TODAY ON THE PITCH', data.todaySub || '')}
   <div class="body">
     ${data.today.map(fixtureCard).join('')}
     ${sectionHead('ball', data.earlierTitle || 'EARLIER RESULTS', data.earlierSub || '')}
@@ -759,7 +759,7 @@ const predictionsPage = !HAS_PREDICTIONS ? '' : `<div class="page">
 </div>`;
 
 const statsPage = `<div class="page">
-  ${pageHead('THE GOLDEN BOOT RACE', 'Three men, seven goals each — a World Cup first')}
+  ${pageHead('THE GOLDEN BOOT RACE', data.goldenBoot.sub || '')}
   <div class="body">
     ${podium(data.goldenBoot)}
     <div class="card">${goldenBoot(data.goldenBoot)}</div>
