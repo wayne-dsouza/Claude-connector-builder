@@ -351,7 +351,7 @@ function predictionCard(f) {
       ${seg('pb-h', p.probs.home, p.probs.home + '%')}${seg('pb-d', p.probs.draw, p.probs.draw + '%')}${seg('pb-a', p.probs.away, p.probs.away + '%')}
     </div>
     <div class="pb-legend"><span><i class="pb-h"></i>${esc(f.home.name)} win</span><span><i class="pb-d"></i>Draw</span><span><i class="pb-a"></i>${esc(f.away.name)} win</span></div>
-    <div class="pb-label">TO REACH THE QUARTER-FINAL</div>
+    <div class="pb-label">${esc(p.advanceLabel || 'TO ADVANCE')}</div>
     <div class="pb pb-thin">
       ${seg('pb-h', p.advance.home, esc(f.home.name) + ' ' + p.advance.home + '%')}${seg('pb-a', p.advance.away, esc(f.away.name) + ' ' + p.advance.away + '%')}
     </div>
@@ -714,7 +714,7 @@ const coverPage = `<div class="page">
     <div class="teaser">
       <span class="teaser-k">TONIGHT (CENTRAL EUROPE)</span>
       ${data.today.map((f) => `<span class="teaser-m">${flag(f.home.code, 'flag flag-sm')} ${esc(f.home.name)} – ${esc(f.away.name)} ${flag(f.away.code, 'flag flag-sm')} <span class="t-time">${esc(f.timeFr)}</span></span>`).join('')}
-      <span class="teaser-arrow">FULL PREVIEWS PAGE 4 ${icon('arrow', 12)}</span>
+      <span class="teaser-arrow">FULL PREVIEWS PAGE ${2 + data.yesterday.length} ${icon('arrow', 12)}</span>
     </div>
   </div>
   ${footer(1)}

@@ -1,0 +1,489 @@
+{
+  "edition": "2026-07-09",
+  "editionNumber": 4,
+  "dateLabel": "Thursday 9 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "Quarter-finals — one tie a day through Sunday",
+  "quickFacts": [
+    {
+      "icon": "bracket",
+      "text": "The quarter-finals begin tonight in Boston"
+    },
+    {
+      "icon": "boot",
+      "text": "Mbappé can level Messi's 8 goals tonight"
+    },
+    {
+      "icon": "calendar",
+      "text": "One tie a day: Spain–Belgium Fri, Norway–England Sat, Argentina–Switzerland Sun"
+    }
+  ],
+  "hero": {
+    "kicker": "QUARTER-FINAL WEEK",
+    "headline": "THE REMATCH FRANCE NEVER WANTED",
+    "standfirst": "Qatar 2022, semi-final: France 2, Morocco 0 — and a football continent left wondering what might have been. Tonight in Boston they meet again, one round earlier, with France unbeaten and scoring freely, and a Morocco side that has conceded just once in the knockouts. The last eight starts with its heavyweight bout.",
+    "photo": "mbappe",
+    "photoCaption": "Kylian Mbappé — seven goals, two assists, and a Golden Boot one strike away",
+    "briefing": [
+      {
+        "icon": "star",
+        "text": "The Crystal Ball is back tonight: the live market has France at 62%, but a quarter of the money sits on the draw."
+      },
+      {
+        "icon": "bolt",
+        "text": "Morocco lose forward Ismael Saibari to injury — a real blow to their counter-attack."
+      },
+      {
+        "icon": "calendar",
+        "text": "Tomorrow: Spain–Belgium in Los Angeles (18:00) — the market already makes Spain 60% favourites."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "Tonight: France–Morocco, the 2022 semi-final rematch — full preview and key men"
+    },
+    {
+      "page": "P.3",
+      "text": "The Crystal Ball: our call with $1.7m of live market money behind the numbers"
+    },
+    {
+      "page": "P.4",
+      "text": "Golden Boot: Messi leads on 8 — Mbappé hunts him tonight, Haaland and Kane on Saturday"
+    },
+    {
+      "page": "P.5",
+      "text": "The bracket, the semi-final routes, and your week to the final"
+    }
+  ],
+  "yesterday": [],
+  "earlier": [
+    {
+      "note": "0–1",
+      "home": {
+        "name": "Portugal",
+        "code": "pt",
+        "score": 0
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      }
+    },
+    {
+      "note": "1–4",
+      "home": {
+        "name": "United States",
+        "code": "us",
+        "score": 1
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be",
+        "score": 4
+      }
+    },
+    {
+      "note": "3–2",
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 3
+      },
+      "away": {
+        "name": "Egypt",
+        "code": "eg",
+        "score": 2
+      }
+    },
+    {
+      "note": "pens",
+      "home": {
+        "name": "Switzerland",
+        "code": "ch",
+        "score": 0
+      },
+      "away": {
+        "name": "Colombia",
+        "code": "co",
+        "score": 0
+      }
+    }
+  ],
+  "earlierTitle": "HOW THE LAST EIGHT WAS SETTLED",
+  "earlierSub": "This week's round-of-16 results",
+  "statTiles": [
+    {
+      "value": "2–0",
+      "label": "The 2022 semi-final — the only previous World Cup meeting, France's night in Qatar"
+    },
+    {
+      "value": "14",
+      "label": "France's goals in five games — the tournament's most dangerous attack"
+    },
+    {
+      "value": "1",
+      "label": "Goal conceded by Morocco in the knockout rounds"
+    },
+    {
+      "value": "5/5",
+      "label": "France are the only team to win every game without needing extra time"
+    }
+  ],
+  "todayTitle": "TONIGHT ON THE PITCH",
+  "todaySub": "Quarter-final 1 of 4 — the winner is two games from the final",
+  "today": [
+    {
+      "kicker": "QF1 · THE 2022 SEMI-FINAL, REPLAYED",
+      "home": {
+        "name": "France",
+        "code": "fr"
+      },
+      "away": {
+        "name": "Morocco",
+        "code": "ma"
+      },
+      "venue": "Gillette Stadium, Boston",
+      "timeFr": "22:00",
+      "timeLocal": "4:00 PM ET",
+      "kickUtc": "2026-07-09T20:00:00Z",
+      "preview": "France have been the tournament's most complete attacking side: five wins from five, none needing extra time, 14 goals, and the Mbappé–Dembélé axis purring. Morocco have built their run the other way — a defensive wall that dismantled Canada 3–0 and has conceded once in the knockouts. In Qatar they made history reaching the semi-final; France ended it, 2–0. Tonight is the chance to rewrite that ending, without the injured Ismael Saibari.",
+      "watch": [
+        "Mbappé (7 goals) can level Messi's Golden Boot lead — or pass it",
+        "Hakimi against his boyhood city club teammate Dembélé down France's left",
+        "The winner meets Spain or Belgium in Tuesday's Dallas semi-final"
+      ],
+      "keyMan": {
+        "photo": "hakimi",
+        "name": "Achraf Hakimi",
+        "team": "Morocco",
+        "line": "Captain of the wall. Born in Madrid, made in Paris, and the man who must somehow patrol the wing where Mbappé — his old PSG teammate — does his worst."
+      },
+      "prediction": {
+        "call": "France 2–1",
+        "probs": {
+          "home": 60,
+          "draw": 25,
+          "away": 15
+        },
+        "advance": {
+          "home": 72,
+          "away": 28
+        },
+        "market": {
+          "source": "Kalshi prediction market · regulation-time winner",
+          "volume": "$1.7m traded",
+          "legs": [
+            {
+              "label": "France",
+              "pct": 62,
+              "cls": "h"
+            },
+            {
+              "label": "Tie",
+              "pct": 25,
+              "cls": "d"
+            },
+            {
+              "label": "Morocco",
+              "pct": 15,
+              "cls": "a"
+            }
+          ]
+        },
+        "factors": [
+          {
+            "icon": "stats",
+            "label": "FORM",
+            "text": "France: five wins from five, 14 scored, never needed extra time. Morocco: one goal conceded in the knockouts and a 3–0 dismantling of Canada."
+          },
+          {
+            "icon": "whistle",
+            "label": "HEAD-TO-HEAD",
+            "text": "The 2022 semi-final is the reference point: France won 2–0 in Qatar on the night Morocco's historic run ended. Most of both cores were there."
+          },
+          {
+            "icon": "redcard",
+            "label": "FITNESS & FATIGUE",
+            "text": "Morocco are without forward Ismael Saibari, a genuine loss to their transition game. France report a clean bill and have played the fewest hard minutes of any quarter-finalist."
+          },
+          {
+            "icon": "boot",
+            "label": "WHERE THE MONEY IS",
+            "text": "Kalshi's live market ($1.7m traded): France 62%, the draw 25%, Morocco 15% in regulation. A full quarter of the money expects this level after 90 minutes."
+          }
+        ],
+        "verdict": "Morocco will make it ugly, and the draw price says the market respects that. But France's front line is the one force in this tournament no block has contained, and Saibari's absence blunts the counter Morocco would need. France — later than their fans would like.",
+        "advanceLabel": "TO REACH THE SEMI-FINAL"
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 2 winners called from 4.",
+  "goldenBoot": {
+    "sub": "Messi leads on 8 — and all three chasers play in the next 72 hours",
+    "note": "Tie-break: assists, then minutes played. Mbappé's 2 assists mean 8 goals tonight would take the outright lead.",
+    "podium": [
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "Watches tonight; plays Switzerland in Sunday's quarter-final"
+      },
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 7,
+        "line": "Plays tonight — one goal levels Messi, and his assists win the tie-break"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Saturday night against England's defence in Miami"
+      }
+    ],
+    "players": [
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "plays Sun"
+      },
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 7,
+        "detail": "2 assists · plays tonight"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "plays Sat"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "plays Sat"
+      },
+      {
+        "player": "Vinícius Júnior",
+        "team": "Brazil",
+        "code": "br",
+        "goals": 4,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 4,
+        "detail": "plays Fri"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 4,
+        "detail": "plays tonight"
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "current"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": ""
+      },
+      {
+        "label": "FINAL",
+        "sub": "19 Jul",
+        "state": ""
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "Thu 9 July",
+        "timeFr": "22:00",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Fri 10 July",
+        "timeFr": "18:00",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Sat 11 July",
+        "timeFr": "23:00",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "Sun 12 July",
+        "timeFr": "02:00 (+1)",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "Tue 14 July",
+        "venue": "Dallas",
+        "label": "Tonight's winner vs Spain/Belgium"
+      },
+      {
+        "day": "Wed 15 July",
+        "venue": "Atlanta",
+        "label": "Norway/England vs Argentina/Switzerland"
+      }
+    ],
+    "final": {
+      "day": "Sunday 19 July",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
+  },
+  "week": [
+    {
+      "day": "THU",
+      "date": "9 Jul",
+      "highlight": true,
+      "items": [
+        "QF1 France–Morocco · 22:00"
+      ]
+    },
+    {
+      "day": "FRI",
+      "date": "10 Jul",
+      "highlight": false,
+      "items": [
+        "QF2 Spain–Belgium · 18:00"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "11 Jul",
+      "highlight": false,
+      "items": [
+        "QF3 Norway–England · 23:00"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "12 Jul",
+      "highlight": false,
+      "items": [
+        "QF4 Argentina–Switzerland · 02:00 (+1)"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "13 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "14 Jul",
+      "highlight": false,
+      "items": [
+        "Semi-final 1 in Dallas"
+      ]
+    },
+    {
+      "day": "WED",
+      "date": "15 Jul",
+      "highlight": false,
+      "items": [
+        "Semi-final 2 in Atlanta"
+      ]
+    }
+  ],
+  "tomorrowLabel": "TOMORROW: QF2 — SPAIN–BELGIUM IN LOS ANGELES",
+  "tomorrow": [
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es"
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be"
+      },
+      "timeFr": "18:00"
+    }
+  ],
+  "signoff": "Next edition: the France–Morocco report with the full timeline and stats, plus the Crystal Ball's call on Spain–Belgium.",
+  "sources": "Schedule, team news & stats: FIFA, ESPN, Goal, Olympics.com, Yahoo Sports, DraftKings Network — checked morning of 9 July 2026. Live market prices: Kalshi ($1.7m traded on tonight's tie). Kick-off times in Central European Time unless flagged otherwise."
+}
