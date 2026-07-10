@@ -1,0 +1,183 @@
+{
+  "edition": "2026-07-10",
+  "editionNumber": 5,
+  "dateLabel": "Friday 10 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "Quarter-finals — France already through to the last four",
+  "quickFacts": [
+    { "icon": "trophy", "text": "France are the first semi-finalists — six wins from six" },
+    { "icon": "boot", "text": "Mbappé joins Messi on 8 goals at the top of the Golden Boot" },
+    { "icon": "clock", "text": "Note: tonight's Spain–Belgium kicks off 21:00, not 18:00 as first listed" }
+  ],
+  "hero": {
+    "kicker": "NO MIRACLE THIS TIME",
+    "headline": "FRANCE MARCH ON, MBAPPÉ CATCHES MESSI",
+    "standfirst": "A missed penalty, then perfection: Kylian Mbappé curled France ahead on the hour, set up Dembélé six minutes later, and the 2022 semi-final rematch went exactly the way of the first meeting. France are in the last four without conceding momentum once — and the Golden Boot race is level at the top again.",
+    "photo": "mbappe",
+    "photoCaption": "Kylian Mbappé — a missed penalty, a goal, an assist: 8 this tournament, 20 in World Cups",
+    "briefing": [
+      { "icon": "star", "text": "Crystal Ball, day three: France 2–1 was the call, France 2–0 the result — 3 winners from 5 so far." },
+      { "icon": "clock", "text": "Schedule correction: tonight's Spain–Belgium is 21:00 our time (12:00 in Los Angeles), later than previously listed." },
+      { "icon": "bolt", "text": "Belgium sweat on midfielder Amadou Onana, who limped off against the USA with a knee problem." }
+    ]
+  },
+  "insideToday": [
+    { "page": "P.2", "text": "France 2–0 Morocco — the hour of Mbappé, minute by minute" },
+    { "page": "P.3", "text": "Tonight: Spain–Belgium — the tournament's best defence meets its hottest attack" },
+    { "page": "P.4", "text": "The Crystal Ball: our call, with $1.4m of live market money on the board" },
+    { "page": "P.5", "text": "Golden Boot: Messi and Mbappé locked on 8 — Haaland answers on Saturday" },
+    { "page": "P.6", "text": "The bracket: France wait in Dallas for tonight's winner" }
+  ],
+  "yesterday": [
+    {
+      "tag": "STATEMENT",
+      "tagColor": "#2a78d6",
+      "stage": "Quarter-final 1 · France reach the semi-final",
+      "home": { "name": "France", "code": "fr", "score": 2 },
+      "away": { "name": "Morocco", "code": "ma", "score": 0 },
+      "venue": "Gillette Stadium, Foxborough (Boston)",
+      "scorers": [
+        { "side": "home", "player": "Mbappé", "minute": "60'", "note": "curled, far corner" },
+        { "side": "home", "player": "Dembélé", "minute": "66'", "note": "Mbappé assist" }
+      ],
+      "stats": [
+        { "label": "Shots", "home": 21, "away": 4 },
+        { "label": "On target", "home": 8, "away": 1 }
+      ],
+      "facts": [
+        { "icon": "bolt", "text": "France's xG of 3.04 to Morocco's 0.14 — as one-sided as a quarter-final gets" },
+        { "icon": "whistle", "text": "Mbappé missed a first-half penalty — then answered with a goal and an assist inside six second-half minutes" },
+        { "icon": "trophy", "text": "Six wins from six without extra time — no other team in the bracket can say it" }
+      ],
+      "report": "For an hour Morocco's famous wall held, and Mbappé's first-half penalty miss — shades of Messi and Egypt — let Boston believe in another African miracle. Then the hour struck. Mbappé collected the ball on the left, cut in, and curled a shot into the far corner that no goalkeeper reaches: his 8th of the tournament and the 20th of his World Cup career, one behind Messi's all-time count.",
+      "report2": "Six minutes later he turned provider, slipping in Dembélé for the fifth goal of the winger's tournament, and the tie was done. The final numbers — 21 shots to 4, eight on target to one, an xG of 3.04 against 0.14 — read like a training exercise. France are the first team into the last four, still perfect, still yet to need a single minute of extra time.",
+      "star": {
+        "photo": "mbappe",
+        "name": "Kylian Mbappé",
+        "role": "Star of the match",
+        "line": "The penalty miss would have haunted a lesser tournament. Instead: a world-class winner, an assist, level with Messi on 8 — and a semi-final on Tuesday to settle the argument."
+      },
+      "aside": {
+        "photo": "dembele",
+        "name": "Ousmane Dembélé",
+        "line": "Five tournament goals from the wing, and the quiet half of the deadliest duo in the bracket."
+      },
+      "whatItMeans": "France meet tonight's Spain–Belgium winner in Tuesday's Dallas semi-final. Morocco's second straight deep run ends at France's hands, again.",
+      "timeline": [
+        { "pos": 60, "side": "home", "label": "Mbappé 60'", "type": "goal" },
+        { "pos": 66, "side": "home", "label": "Dembélé 66'", "type": "goal" }
+      ]
+    }
+  ],
+  "earlier": [],
+  "statTiles": [
+    { "value": "609'", "label": "Unai Simón's minutes without conceding — a World Cup record, on the line tonight" },
+    { "value": "3.04", "label": "France's xG against Morocco — to 0.14 the other way" },
+    { "value": "18", "label": "Belgium's unbeaten run in all competitions coming into tonight" },
+    { "value": "20", "label": "Mbappé's career World Cup goals — one behind Messi's all-time record" }
+  ],
+  "todayTitle": "TONIGHT ON THE PITCH",
+  "todaySub": "Quarter-final 2 — the winner meets France in Dallas on Tuesday",
+  "today": [
+    {
+      "kicker": "QF2 · THE WALL AGAINST THE WAVE",
+      "home": { "name": "Spain", "code": "es" },
+      "away": { "name": "Belgium", "code": "be" },
+      "venue": "SoFi Stadium, Los Angeles",
+      "timeFr": "21:00",
+      "timeLocal": "12:00 PM PT",
+      "kickUtc": "2026-07-10T19:00:00Z",
+      "preview": "The cleanest matchup of the round: Spain have not conceded in five games — goalkeeper Unai Simón's 609 unbreached minutes are a World Cup record — while Belgium arrive on an 18-match unbeaten run having just handed the USA the most emphatic knockout defeat by anyone left in the bracket. Something must give, and whatever gives, France are waiting for the survivor in Dallas.",
+      "watch": [
+        "De Ketelaere's hot streak against the only defence yet to blink",
+        "Oyarzabal (4 goals) quietly two behind the Golden Boot podium",
+        "Belgium's Onana a doubt after limping off against the USA"
+      ],
+      "keyMan": {
+        "photo": "simon",
+        "name": "Unai Simón",
+        "team": "Spain",
+        "line": "609 minutes, five clean sheets, a record already his. Belgium's four-goal night in Seattle is precisely the storm his record has never faced."
+      },
+      "prediction": {
+        "call": "Spain 2–1",
+        "probs": { "home": 58, "draw": 25, "away": 17 },
+        "advance": { "home": 68, "away": 32 },
+        "advanceLabel": "TO REACH THE SEMI-FINAL",
+        "market": {
+          "source": "Kalshi prediction market · regulation-time winner",
+          "volume": "$1.4m traded",
+          "legs": [
+            { "label": "Spain", "pct": 60, "cls": "h" },
+            { "label": "Tie", "pct": 25, "cls": "d" },
+            { "label": "Belgium", "pct": 17, "cls": "a" }
+          ]
+        },
+        "factors": [
+          { "icon": "stats", "label": "FORM", "text": "Spain: five clean sheets in five games and control of every match they've played. Belgium: an 18-game unbeaten run and a 4–1 statement against the hosts." },
+          { "icon": "whistle", "label": "HEAD-TO-HEAD", "text": "Two World Cup meetings, honours even: Belgium won the 1986 quarter-final on penalties after 1–1; Spain took the 1990 group game 2–1." },
+          { "icon": "redcard", "label": "FITNESS & FATIGUE", "text": "Spain report a full squad. Belgium's Amadou Onana limped off against the USA with a knee problem and remains a doubt in their engine room." },
+          { "icon": "boot", "label": "WHERE THE MONEY IS", "text": "Kalshi's live market ($1.4m traded): Spain 60%, the draw 25%, Belgium 17% in regulation — almost exactly the France–Morocco shape from last night, and that one obeyed the money." }
+        ],
+        "verdict": "The record says Spain don't concede; Seattle says Belgium have finally woken up. We think Simón's wall bends but doesn't break when it matters — Spain, with the first goal past them of the tournament as the consolation Belgium take home. If Onana misses out, add a goal to Spain's side."
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 3 winners called from 5.",
+  "goldenBoot": {
+    "sub": "Two on 8 at the top — and Haaland gets his answer in on Saturday",
+    "note": "Tie-break: assists, then minutes played. Mbappé added a goal AND an assist last night — the tie-break maths is now razor-thin at the top.",
+    "podium": [
+      { "photo": "messi", "player": "Lionel Messi", "team": "Argentina", "code": "ar", "goals": 8, "line": "Plays Switzerland in Sunday's Kansas City quarter-final" },
+      { "photo": "mbappe", "player": "Kylian Mbappé", "team": "France", "code": "fr", "goals": 8, "line": "Level with Messi after Boston — and already through to Tuesday's semi" },
+      { "photo": "haaland", "player": "Erling Haaland", "team": "Norway", "code": "no", "goals": 7, "line": "One behind, with England waiting on Saturday night" }
+    ],
+    "players": [
+      { "player": "Lionel Messi", "team": "Argentina", "code": "ar", "goals": 8, "detail": "plays Sun" },
+      { "player": "Kylian Mbappé", "team": "France", "code": "fr", "goals": 8, "detail": "in the semi-final" },
+      { "player": "Erling Haaland", "team": "Norway", "code": "no", "goals": 7, "detail": "plays Sat" },
+      { "player": "Harry Kane", "team": "England", "code": "gb-eng", "goals": 5, "detail": "plays Sat" },
+      { "player": "Ousmane Dembélé", "team": "France", "code": "fr", "goals": 5, "detail": "in the semi-final" },
+      { "player": "Vinícius Júnior", "team": "Brazil", "code": "br", "goals": 4, "detail": "eliminated" },
+      { "player": "Mikel Oyarzabal", "team": "Spain", "code": "es", "goals": 4, "detail": "plays tonight" }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      { "label": "GROUPS", "sub": "11–27 Jun", "state": "done" },
+      { "label": "ROUND OF 32", "sub": "28 Jun–3 Jul", "state": "done" },
+      { "label": "ROUND OF 16", "sub": "4–7 Jul", "state": "done" },
+      { "label": "QUARTERS", "sub": "9–12 Jul", "state": "current" },
+      { "label": "SEMIS", "sub": "14–15 Jul", "state": "" },
+      { "label": "FINAL", "sub": "19 Jul", "state": "" }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      { "day": "FT Thu · France won 2–0", "timeFr": "", "venue": "Boston", "home": { "name": "France", "code": "fr" }, "away": { "name": "Morocco", "code": "ma" }, "confirmed": true },
+      { "day": "Tonight · 21:00", "timeFr": "", "venue": "Los Angeles", "home": { "name": "Spain", "code": "es" }, "away": { "name": "Belgium", "code": "be" }, "confirmed": true },
+      { "day": "Sat 11 July · 23:00", "timeFr": "", "venue": "Miami", "home": { "name": "Norway", "code": "no" }, "away": { "name": "England", "code": "gb-eng" }, "confirmed": true },
+      { "day": "Sun 12 July · 02:00 (+1)", "timeFr": "", "venue": "Kansas City", "home": { "name": "Argentina", "code": "ar" }, "away": { "name": "Switzerland", "code": "ch" }, "confirmed": true }
+    ],
+    "semiFinals": [
+      { "day": "Tue 14 July", "venue": "Dallas", "label": "France vs tonight's winner" },
+      { "day": "Wed 15 July", "venue": "Atlanta", "label": "Norway/England vs Argentina/Switzerland" }
+    ],
+    "final": { "day": "Sunday 19 July", "venue": "MetLife Stadium, New York / New Jersey" }
+  },
+  "week": [
+    { "day": "FRI", "date": "10 Jul", "highlight": true, "items": ["QF2 Spain–Belgium · 21:00"] },
+    { "day": "SAT", "date": "11 Jul", "highlight": false, "items": ["QF3 Norway–England · 23:00"] },
+    { "day": "SUN", "date": "12 Jul", "highlight": false, "items": ["QF4 Argentina–Switzerland · 02:00 (+1)"] },
+    { "day": "MON", "date": "13 Jul", "highlight": false, "items": ["Rest day"] },
+    { "day": "TUE", "date": "14 Jul", "highlight": false, "items": ["SF1: France vs QF2 winner · Dallas"] },
+    { "day": "WED", "date": "15 Jul", "highlight": false, "items": ["SF2 · Atlanta"] },
+    { "day": "SUN", "date": "19 Jul", "highlight": false, "items": ["THE FINAL · MetLife"] }
+  ],
+  "tomorrowLabel": "TOMORROW: QF3 — NORWAY–ENGLAND IN MIAMI",
+  "tomorrow": [
+    { "home": { "name": "Norway", "code": "no" }, "away": { "name": "England", "code": "gb-eng" }, "timeFr": "23:00" }
+  ],
+  "signoff": "Next edition: the Spain–Belgium report — did the wall hold? — plus the Crystal Ball on Haaland against England.",
+  "sources": "Results & stats: FIFA, ESPN, FOX Sports, CNN, NBC, Yahoo Sports, Sports Mole, RotoWire — checked morning of 10 July 2026. Live market prices: Kalshi ($1.4m traded on tonight's tie). Kick-off times in Central European Time unless flagged otherwise."
+}

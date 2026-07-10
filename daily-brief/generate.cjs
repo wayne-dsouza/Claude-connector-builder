@@ -728,7 +728,7 @@ const todayPage = `<div class="page">
   ${pageHead(data.todayTitle || 'TODAY ON THE PITCH', data.todaySub || '')}
   <div class="body">
     ${data.today.map(fixtureCard).join('')}
-    ${sectionHead('ball', data.earlierTitle || 'EARLIER RESULTS', data.earlierSub || '')}
+    ${!(data.earlier || []).length ? '' : sectionHead('ball', data.earlierTitle || 'EARLIER RESULTS', data.earlierSub || '')}
     <div class="earlier">
       ${data.earlier
         .map(

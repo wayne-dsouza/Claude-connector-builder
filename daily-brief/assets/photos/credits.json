@@ -106,5 +106,17 @@
     "artist": "Bryan Berlin",
     "license": "CC BY-SA 4.0",
     "source": "https://commons.wikimedia.org/wiki/File:Achraf_Hakimi_Morocco_v_Norway_7_June_2026-16.jpg"
+  },
+  "dembele": {
+    "file": "File:Ousmane_Dembele_France_v_Senegal_16_June_2026-341_(cropped)_2.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ousmane_Dembele_France_v_Senegal_16_June_2026-341_(cropped)_2.jpg"
+  },
+  "simon": {
+    "file": "File:Unai_Simón_2025_(cropped).jpg",
+    "artist": "Biso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Unai_Sim%C3%B3n_2025_(cropped).jpg"
   }
 }
