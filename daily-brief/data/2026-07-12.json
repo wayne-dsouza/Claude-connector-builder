@@ -1,0 +1,606 @@
+{
+  "edition": "2026-07-12",
+  "editionNumber": 7,
+  "dateLabel": "Sunday 12 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "The semi-finals are set: France–Spain, England–Argentina",
+  "quickFacts": [
+    {
+      "icon": "bracket",
+      "text": "Semis: France–Spain Tue, England–Argentina Wed — both 21:00"
+    },
+    {
+      "icon": "boot",
+      "text": "Haaland's Golden Boot race ends at 7 — Messi and Mbappé lead on 8"
+    },
+    {
+      "icon": "star",
+      "text": "Crystal Ball: 5 winners from 7, two exact 2–1 scorelines"
+    }
+  ],
+  "hero": {
+    "kicker": "TWO LATE NIGHTS, TWO CLASSICS",
+    "headline": "BELLINGHAM AGAIN. MESSI MARCHES ON.",
+    "standfirst": "Jude Bellingham dragged England past Haaland's Norway with a brace finished three minutes into extra time — and hours later, ten-man Switzerland finally broke in Kansas City as Argentina won 3–1 in extra time of their own. The last four is a collector's edition: France–Spain, then England–Argentina.",
+    "photo": "bellingham",
+    "photoCaption": "Jude Bellingham — an equaliser on the stroke of half-time, the winner in extra time",
+    "briefing": [
+      {
+        "icon": "star",
+        "text": "Crystal Ball, day five: England 2–1 was the call, England 2–1 the result — our second exact scoreline. Five winners from seven."
+      },
+      {
+        "icon": "bolt",
+        "text": "The early semi-final money: France 43% against Spain's 30 — and England–Argentina opens almost dead even (38–32)."
+      },
+      {
+        "icon": "calendar",
+        "text": "Rest days today and tomorrow. Semi-final 1 is Tuesday in Dallas, semi-final 2 Wednesday in Atlanta — both at 21:00 our time."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "Norway 1–2 England (aet) — Bellingham's double ends Haaland's dream"
+    },
+    {
+      "page": "P.3",
+      "text": "Argentina 3–1 Switzerland (aet) — the champions outlast the Swiss wall"
+    },
+    {
+      "page": "P.4",
+      "text": "The semi-finals: France–Spain and England–Argentina, previewed"
+    },
+    {
+      "page": "P.5",
+      "text": "Golden Boot: Messi and Mbappé on 8 — and both play this week"
+    },
+    {
+      "page": "P.6",
+      "text": "The bracket: four teams, seven days, one trophy"
+    }
+  ],
+  "yesterday": [
+    {
+      "tag": "EXTRA TIME",
+      "tagColor": "#e34948",
+      "stage": "Quarter-final 3 · 1–2 after extra time",
+      "home": {
+        "name": "Norway",
+        "code": "no",
+        "score": 1
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 2
+      },
+      "venue": "Hard Rock Stadium, Miami",
+      "scorers": [
+        {
+          "side": "away",
+          "player": "Bellingham",
+          "minute": "45'+2, 93'",
+          "note": "second in extra time"
+        },
+        {
+          "side": "home",
+          "player": "Schjelderup",
+          "minute": "36'",
+          "note": "cross-shot"
+        }
+      ],
+      "facts": [
+        {
+          "icon": "bolt",
+          "text": "Bellingham's winner came three minutes into extra time, pouncing when Nyland spilled Rogers' shot"
+        },
+        {
+          "icon": "ball",
+          "text": "Haaland was held without a goal for the first time in the knockouts — his tournament ends on 7"
+        },
+        {
+          "icon": "whistle",
+          "text": "England reach a World Cup semi-final having trailed in both of their last two knockout ties"
+        }
+      ],
+      "report": "For an hour, the fairy tale had legs. Andreas Schjelderup's 36th-minute cross-shot caught everyone — including possibly himself — by surprise, and Norway's block did to England what it did to Brazil. But on the stroke of half-time Jude Bellingham found the equaliser his tournament deserved, and the game slid towards the extra half-hour both sets of legs feared.",
+      "report2": "Three minutes into it, Ørjan Nyland spilled Morgan Rogers' drive and Bellingham reacted first — his fourth goal of the tournament, and the end of Norway's greatest World Cup. Haaland, marked by a crowd all night, never got his chance. England march into Wednesday's semi-final in Atlanta having twice come from behind to survive.",
+      "star": {
+        "photo": "bellingham",
+        "name": "Jude Bellingham",
+        "role": "Star of the match",
+        "line": "Twice at the Azteca, twice more in Miami. Four goals, every one of them in a knockout game England were losing or drawing. Big-game player is no longer a debate."
+      },
+      "aside": {
+        "photo": "haaland",
+        "name": "Erling Haaland",
+        "line": "Held quiet on the night it mattered, but he leaves with 7 goals, a nation's first quarter-final, and the tournament's most terrifying highlight reel."
+      },
+      "whatItMeans": "England meet Argentina in Wednesday's Atlanta semi-final — a rematch of legends. Norway go home with the whole country's head held high.",
+      "timeline": [
+        {
+          "pos": 36,
+          "side": "home",
+          "label": "Schjelderup 36'",
+          "type": "goal"
+        },
+        {
+          "pos": 46,
+          "side": "away",
+          "label": "Bellingham 45'+2",
+          "type": "goal"
+        },
+        {
+          "pos": 96,
+          "side": "away",
+          "label": "Bellingham 93' aet",
+          "type": "goal"
+        }
+      ]
+    },
+    {
+      "tag": "EXTRA TIME",
+      "tagColor": "#eda100",
+      "stage": "Quarter-final 4 · 3–1 after extra time",
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 3
+      },
+      "away": {
+        "name": "Switzerland",
+        "code": "ch",
+        "score": 1
+      },
+      "venue": "Arrowhead Stadium, Kansas City",
+      "scorers": [
+        {
+          "side": "home",
+          "player": "Mac Allister",
+          "minute": "1H",
+          "note": "opener"
+        },
+        {
+          "side": "home",
+          "player": "Álvarez",
+          "minute": "112'",
+          "note": ""
+        },
+        {
+          "side": "home",
+          "player": "Lautaro Martínez",
+          "minute": "ET",
+          "note": ""
+        },
+        {
+          "side": "away",
+          "player": "Ndoye",
+          "minute": "2H",
+          "note": "equaliser"
+        }
+      ],
+      "events": [
+        {
+          "icon": "redcard",
+          "text": "Red card: Embolo (SUI), second bookable offence — the turning point of extra time"
+        }
+      ],
+      "facts": [
+        {
+          "icon": "whistle",
+          "text": "Switzerland's wall held Argentina level for over 100 minutes before Embolo's second yellow broke the dam"
+        },
+        {
+          "icon": "bolt",
+          "text": "Álvarez struck in the 112th minute, Lautaro sealed it — the champions' third extra-time escape of the knockouts"
+        },
+        {
+          "icon": "trophy",
+          "text": "Argentina have now come from level or behind in every knockout game — and won them all"
+        }
+      ],
+      "report": "Kansas City got the siege everyone predicted, just longer. Alexis Mac Allister's first-half opener should have settled Argentine nerves, but Dan Ndoye's equaliser after the hour dragged the champions into a familiar place: level, late, and staring at penalties against the team that knocked out Colombia exactly that way.",
+      "report2": "Then Breel Embolo's second yellow tilted the pitch. Against ten men, Julián Álvarez finally beat Kobel in the 112th minute and Lautaro Martínez added the third before the end. Argentina's knockout run now reads like a stress test passed three times — and Wednesday brings England, in a rematch of one of football's oldest arguments.",
+      "star": {
+        "photo": "messi",
+        "name": "Lionel Messi",
+        "role": "The constant",
+        "line": "No goal this time, but 120 more minutes of steering the champions through a storm at 39. Two games stand between him and a second consecutive World Cup."
+      },
+      "aside": {
+        "photo": "kobel",
+        "name": "Gregor Kobel",
+        "line": "Beaten only in the deep minutes of extra time after another towering night. Switzerland's revival ends, but their goalkeeper leaves as one of the tournament's names."
+      },
+      "whatItMeans": "England–Argentina in Wednesday's Atlanta semi-final. Switzerland's first quarter-final in 72 years ends with pride fully intact.",
+      "timeline": []
+    }
+  ],
+  "earlier": [
+    {
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 2
+      },
+      "away": {
+        "name": "Morocco",
+        "code": "ma",
+        "score": 0
+      },
+      "note": "QF1 · Thursday, Boston"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 2
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be",
+        "score": 1
+      },
+      "note": "QF2 · Friday, Los Angeles"
+    },
+    {
+      "home": {
+        "name": "Norway",
+        "code": "no",
+        "score": 1
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 2
+      },
+      "note": "QF3 · Saturday, aet"
+    },
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 3
+      },
+      "away": {
+        "name": "Switzerland",
+        "code": "ch",
+        "score": 1
+      },
+      "note": "QF4 · Saturday, aet"
+    }
+  ],
+  "statTiles": [
+    {
+      "value": "4",
+      "label": "Bellingham's tournament goals — all four in knockout games England weren't winning"
+    },
+    {
+      "value": "112'",
+      "label": "The minute Álvarez finally beat Kobel — Argentina's latest winner yet"
+    },
+    {
+      "value": "7",
+      "label": "Where Haaland's Golden Boot race ends — one short of Messi and Mbappé"
+    },
+    {
+      "value": "3",
+      "label": "Consecutive knockout wins for Argentina after trailing or being level late"
+    }
+  ],
+  "todayTitle": "NEXT UP: THE SEMI-FINALS",
+  "todaySub": "Rest days today and Monday — then two nights that decide the final",
+  "today": [
+    {
+      "kicker": "SF1 · TUESDAY · DALLAS",
+      "home": {
+        "name": "France",
+        "code": "fr"
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es"
+      },
+      "venue": "AT&T Stadium, Dallas",
+      "timeFr": "Tue 21:00",
+      "timeLocal": "3:00 PM ET",
+      "preview": "The final arriving early. France are the tournament's only perfect team — seven wins, never extra time, Mbappé and Dembélé combining for 13 goals. Spain conceded their first goal of the whole tournament on Friday and still won, with super-sub Merino striking late for the second time in a week. The early market leans French: 43% to 30, with a big 30% on the draw.",
+      "watch": [
+        "Mbappé v Spain's record defence — 8 goals against 1 conceded all tournament",
+        "Merino, the bench weapon Spain now openly plan around",
+        "The winner gets six days' rest before the MetLife final"
+      ],
+      "keyMan": {
+        "photo": "mbappe",
+        "name": "Kylian Mbappé",
+        "team": "France",
+        "line": "Eight goals, level with Messi, and the one attacking force no defence has held. Spain's is the last wall standing between him and a third final."
+      }
+    },
+    {
+      "kicker": "SF2 · WEDNESDAY · ATLANTA",
+      "home": {
+        "name": "England",
+        "code": "gb-eng"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar"
+      },
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "timeFr": "Wed 21:00",
+      "timeLocal": "3:00 PM ET",
+      "preview": "1986 and the Hand of God, 1998 and Beckham's red, 2002 and Beckham's penalty — England–Argentina needs no introduction, and now it decides a World Cup semi-final. Both sides needed extra time on Saturday; both have made comebacks their identity. The market can barely split them: England 38%, Argentina 32%, the draw 32%.",
+      "watch": [
+        "Bellingham against Messi — the tournament's man of the moment against its eternal one",
+        "Kane (5 goals) quietly hunting the Golden Boot leaders",
+        "Both teams played 120 minutes Saturday — the fresher legs may decide it"
+      ],
+      "keyMan": {
+        "photo": "messi",
+        "name": "Lionel Messi",
+        "team": "Argentina",
+        "line": "At 39, two games from retaining the World Cup. England are the only historic rival his trophy cabinet is still missing an answer to."
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 5 winners from 7, two exact scorelines.",
+  "goldenBoot": {
+    "sub": "Messi and Mbappé on 8 — both play this week; Haaland's race is over",
+    "note": "Tie-break: assists, then minutes played. Bellingham's brace lifts him to 4 — every goal in a knockout tie.",
+    "podium": [
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "Faces England Wednesday — two games from the Double"
+      },
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "line": "Faces Spain Tuesday — the assist tie-break is his"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Eliminated — his race ends one goal short"
+      }
+    ],
+    "players": [
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "plays Wed"
+      },
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "detail": "plays Tue"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "plays Wed"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 5,
+        "detail": "plays Tue"
+      },
+      {
+        "player": "Jude Bellingham",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 4,
+        "detail": "plays Wed"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 4,
+        "detail": "plays Tue"
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "done"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": "current"
+      },
+      {
+        "label": "FINAL",
+        "sub": "19 Jul",
+        "state": ""
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "FT · France won 2–0",
+        "timeFr": "",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Spain won 2–1",
+        "timeFr": "",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · England won 2–1 aet",
+        "timeFr": "",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Argentina won 3–1 aet",
+        "timeFr": "",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "Tue 14 July · 21:00",
+        "venue": "Dallas",
+        "label": "France vs Spain"
+      },
+      {
+        "day": "Wed 15 July · 21:00",
+        "venue": "Atlanta",
+        "label": "England vs Argentina"
+      }
+    ],
+    "final": {
+      "day": "Sunday 19 July",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
+  },
+  "week": [
+    {
+      "day": "SUN",
+      "date": "12 Jul",
+      "highlight": true,
+      "items": [
+        "Rest day — semis ahead"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "13 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "14 Jul",
+      "highlight": false,
+      "items": [
+        "SF1 France–Spain · 21:00"
+      ]
+    },
+    {
+      "day": "WED",
+      "date": "15 Jul",
+      "highlight": false,
+      "items": [
+        "SF2 England–Argentina · 21:00"
+      ]
+    },
+    {
+      "day": "THU",
+      "date": "16 Jul",
+      "highlight": false,
+      "items": [
+        "Rest days to the final"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "18 Jul",
+      "highlight": false,
+      "items": [
+        "Third-place match (TBC)"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "19 Jul",
+      "highlight": false,
+      "items": [
+        "THE FINAL · MetLife"
+      ]
+    }
+  ],
+  "tomorrowLabel": "TUESDAY: SF1 — FRANCE–SPAIN IN DALLAS, 21:00. EARLY MARKET: FRANCE 43%, SPAIN 30%, DRAW 30%",
+  "tomorrow": [],
+  "signoff": "Next edition: the France–Spain Crystal Ball returns with fresh market prices, plus everything you need for semi-final week.",
+  "sources": "Results & stats: FIFA, ESPN, FOX Sports, Yahoo Sports, Sports Illustrated, NBC — checked morning of 12 July 2026. Early semi-final prices: Kalshi. Kick-off times in Central European Time unless flagged otherwise.",
+  "earlierTitle": "THE QUARTER-FINAL SCOREBOARD",
+  "earlierSub": "How the last four was decided",
+  "weekSub": "Sunday 12 July — the final on Sunday 19 July"
+}

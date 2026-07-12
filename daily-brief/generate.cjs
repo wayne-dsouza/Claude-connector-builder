@@ -779,7 +779,7 @@ const roadPage = `<div class="page">
     </div></div>
     ${sectionHead('bracket', 'KNOCKOUT BRACKET', 'Quarter-finals 9–12 July · Semi-finals 14–15 July')}
     ${bracket(data.bracket)}
-    ${sectionHead('calendar', 'YOUR WEEK IN FOOTBALL', 'Monday 6 — Sunday 12 July')}
+    ${sectionHead('calendar', 'YOUR WEEK IN FOOTBALL', data.weekSub || '')}
     ${weekStrip(data.week)}
     <div class="signoff">
       ${icon('ball', 26, '#eda100')}
