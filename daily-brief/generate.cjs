@@ -712,7 +712,7 @@ const coverPage = `<div class="page">
       </div>
     </div>
     <div class="teaser">
-      <span class="teaser-k">TONIGHT (CENTRAL EUROPE)</span>
+      <span class="teaser-k">${esc(data.tonightLabel || 'TONIGHT (CENTRAL EUROPE)')}</span>
       ${data.today.map((f) => `<span class="teaser-m">${flag(f.home.code, 'flag flag-sm')} ${esc(f.home.name)} – ${esc(f.away.name)} ${flag(f.away.code, 'flag flag-sm')} <span class="t-time">${esc(f.timeFr)}</span></span>`).join('')}
       <span class="teaser-arrow">FULL PREVIEWS PAGE ${2 + data.yesterday.length} ${icon('arrow', 12)}</span>
     </div>

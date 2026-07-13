@@ -124,5 +124,17 @@
     "artist": "Paté kroute",
     "license": "CC0",
     "source": "https://commons.wikimedia.org/wiki/File:Ruiz_asse_psg_2425.png"
+  },
+  "yamal": {
+    "file": "File:Lamine_Yamal_a_Xina_(2025).png",
+    "artist": "中国新闻社",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_a_Xina_(2025).png"
+  },
+  "olise": {
+    "file": "File:Michael_Olise_France_v_Senegal_16_June_2026-307_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Michael_Olise_France_v_Senegal_16_June_2026-307_(cropped).jpg"
   }
 }
