@@ -1,0 +1,502 @@
+{
+  "edition": "2026-07-14",
+  "editionNumber": 9,
+  "dateLabel": "Tuesday 14 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "Semi-final 1 tonight: France–Spain in Dallas, 21:00 CET",
+  "quickFacts": [
+    {
+      "icon": "bracket",
+      "text": "Tonight, on Bastille Day: France–Spain for a place in the final — 21:00 our time"
+    },
+    {
+      "icon": "star",
+      "text": "The Crystal Ball is back — tonight's call is France 2–1, full workings on page 3"
+    },
+    {
+      "icon": "bolt",
+      "text": "Kalshi this morning: $1.56m traded — France 42, Tie 30, Spain 30"
+    }
+  ],
+  "hero": {
+    "kicker": "SEMI-FINAL 1 · TONIGHT · 21:00 · DALLAS",
+    "headline": "THE WAVE MEETS THE WALL.",
+    "standfirst": "Bastille Day, and France bring the tournament's most relentless attack — 18 goals, Mbappé and Dembélé accounting for 13 — into collision with the meanest defence in World Cup history. Unai Simón kept six consecutive clean sheets, a record no side had ever managed. One of football's two best teams goes home tonight; the other gets Sunday at MetLife.",
+    "photo": "simon",
+    "photoCaption": "Unai Simón — six straight clean sheets, a World Cup record. Tonight, the Mbappé test.",
+    "briefing": [
+      {
+        "icon": "bolt",
+        "text": "France are whole again: L'Équipe reports Tchouaméni returns to the XI after missing two matches with a groin problem, and Mbappé — \"completely fine\" — starts."
+      },
+      {
+        "icon": "ball",
+        "text": "Spain report a clean bill of health and field their strongest side. The back catalogue favours them: winners of the Euro 2024 semi and the 5–4 Nations League epic."
+      },
+      {
+        "icon": "calendar",
+        "text": "Tomorrow it's England–Argentina in Atlanta, also 21:00 — the market can barely split them at 37–32. The Crystal Ball record stands at 5 from 7, two exact scores."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "Tonight previewed in full — plus tomorrow's England–Argentina and the back catalogue"
+    },
+    {
+      "page": "P.3",
+      "text": "The Crystal Ball: France 2–1 — the probabilities, the factors, the live market"
+    },
+    {
+      "page": "P.4",
+      "text": "Golden Boot: Mbappé and Dembélé can move tonight; Messi answers Wednesday"
+    },
+    {
+      "page": "P.5",
+      "text": "The road to the final: bracket, third place Saturday, the final Sunday"
+    }
+  ],
+  "yesterday": [],
+  "earlierTitle": "FRANCE–SPAIN: THE BACK CATALOGUE",
+  "earlierSub": "Two decades of heavyweight meetings",
+  "earlier": [
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 2
+      },
+      "away": {
+        "name": "France",
+        "code": "fr",
+        "score": 1
+      },
+      "note": "Euro 2024 semi · Yamal, Olmo"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 5
+      },
+      "away": {
+        "name": "France",
+        "code": "fr",
+        "score": 4
+      },
+      "note": "Nations League 2025 semi"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "away": {
+        "name": "France",
+        "code": "fr",
+        "score": 2
+      },
+      "note": "2021 UNL final · Mbappé"
+    },
+    {
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 3
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "note": "World Cup 2006 · Zidane's run"
+    }
+  ],
+  "statTiles": [
+    {
+      "value": "13",
+      "label": "Goals for Mbappé and Dembélé combined — France's two-man storm"
+    },
+    {
+      "value": "$1.6m",
+      "label": "Traded on tonight's game on Kalshi by this morning — the tournament's biggest market yet"
+    },
+    {
+      "value": "2",
+      "label": "Times Spain have knocked France out in the last two years — tonight is the rematch of the rematch"
+    },
+    {
+      "value": "2",
+      "label": "Matches Tchouaméni missed with a groin problem — L'Équipe says he returns tonight"
+    }
+  ],
+  "todayTitle": "TONIGHT: SEMI-FINAL 1",
+  "todaySub": "France–Spain, AT&T Stadium — then England–Argentina tomorrow",
+  "tonightLabel": "THE SEMIS (CENTRAL EUROPE)",
+  "today": [
+    {
+      "kicker": "SF1 · TONIGHT · BASTILLE DAY · DALLAS",
+      "home": {
+        "name": "France",
+        "code": "fr"
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es"
+      },
+      "venue": "AT&T Stadium, Dallas",
+      "timeFr": "21:00",
+      "timeLocal": "3:00 PM ET",
+      "kickUtc": "2026-07-14T19:00:00Z",
+      "preview": "France arrive perfect — six wins, one goal conceded, and now whole again with Tchouaméni back in the pivot and Mbappé cleared. Spain arrive as the record wall: six straight clean sheets before Belgium finally scored on Friday, and every knockout round survived by a single goal. History says Spain — they won the Euro 2024 semi and the 5–4 Nations League classic. The money says France, 42 to 30. Something gives tonight.",
+      "watch": [
+        "Mbappé against Simón — 8 goals versus the record streak; nobody has beaten him twice this tournament",
+        "Yamal, France's tormentor at 16, now the World Cup version at 18",
+        "Tchouaméni's return — the shield that lets Olise and Doué create without fear"
+      ],
+      "keyMan": {
+        "photo": "mbappe",
+        "name": "Kylian Mbappé",
+        "team": "France",
+        "line": "Eight goals, an ankle scare shrugged off, and a Bastille Day stage. Spain's wall is the last thing between him and a third World Cup final at 27."
+      },
+      "prediction": {
+        "call": "France 2–1",
+        "probs": {
+          "home": 42,
+          "draw": 30,
+          "away": 28
+        },
+        "advance": {
+          "home": 56,
+          "away": 44
+        },
+        "advanceLabel": "TO REACH THE FINAL",
+        "market": {
+          "source": "Kalshi · regulation-time moneyline",
+          "volume": "$1.56m",
+          "legs": [
+            {
+              "label": "France 42%",
+              "pct": 42,
+              "cls": "h"
+            },
+            {
+              "label": "Tie 30%",
+              "pct": 30,
+              "cls": "d"
+            },
+            {
+              "label": "Spain 30%",
+              "pct": 30,
+              "cls": "a"
+            }
+          ]
+        },
+        "factors": [
+          {
+            "label": "FORM",
+            "text": "France are six from six with one goal conceded. Spain are unbeaten with a record six straight clean sheets — but every Spanish knockout win has been by a single goal."
+          },
+          {
+            "label": "HEAD-TO-HEAD",
+            "text": "Spain won the two that hurt most: the Euro 2024 semi (2–1) and the 2025 Nations League semi (5–4). France's last win over them was the 2021 Nations League final."
+          },
+          {
+            "label": "FITNESS & FATIGUE",
+            "text": "Advantage France: Mbappé is \"completely fine\", Tchouaméni returns per L'Équipe, and France had the extra day of rest — they played Thursday, Spain Friday."
+          },
+          {
+            "label": "WHERE THE MONEY IS",
+            "text": "Kalshi's $1.56m — the tournament's biggest match market yet — splits France 42, Tie 30, Spain 30. A third of the money expects ninety minutes to not be enough."
+          }
+        ],
+        "verdict": "The wall cracks — once more than the wave does. Olise finds Mbappé one time too many and France shade it 2–1 in ninety. But if it goes to extra time, everything the last two years have taught us says Spain."
+      }
+    },
+    {
+      "kicker": "SF2 · TOMORROW · ATLANTA",
+      "home": {
+        "name": "England",
+        "code": "gb-eng"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar"
+      },
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "timeFr": "Wed 21:00",
+      "timeLocal": "3:00 PM ET",
+      "preview": "Twenty-four hours later, the heavyweight rematch of rematches: Hand of God, Beckham's red, Beckham's penalty — now for a place in a World Cup final. Both squads are healthy, both endured 120 minutes on Saturday, and the market still can't pick a side: England 37, the tie 34, Argentina 32. The Crystal Ball takes its swing tomorrow morning.",
+      "watch": [
+        "Bellingham against Messi — four knockout goals versus the man chasing back-to-back titles",
+        "Kane on 5: three goals in two games would steal the Golden Boot from the men on 8",
+        "The recovery race — whoever's legs come back first from Saturday's extra time wins the last half-hour"
+      ],
+      "keyMan": {
+        "photo": "bellingham",
+        "name": "Jude Bellingham",
+        "team": "England",
+        "line": "Four goals, all in knockout games England were losing or drawing. Against Argentina's midfield he isn't the future of this fixture — he's the present."
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 5 winners from 7, two exact scorelines.",
+  "goldenBoot": {
+    "sub": "Mbappé and Dembélé can move tonight — Messi answers Wednesday",
+    "note": "Tie-break: assists, then minutes played. Mbappé holds the edge on assists — one goal tonight puts the Boot in his hands.",
+    "podium": [
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "Watches tonight, plays tomorrow — two games from the Double"
+      },
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "line": "Plays tonight — one goal against the record wall takes the lead"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Eliminated — his race ends one goal short"
+      }
+    ],
+    "players": [
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "plays Wed"
+      },
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "detail": "plays tonight"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "plays Wed"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 5,
+        "detail": "plays tonight"
+      },
+      {
+        "player": "Jude Bellingham",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 4,
+        "detail": "plays Wed"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 4,
+        "detail": "plays tonight"
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "done"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": "current"
+      },
+      {
+        "label": "FINAL",
+        "sub": "19 Jul",
+        "state": ""
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "FT · France won 2–0",
+        "timeFr": "",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Spain won 2–1",
+        "timeFr": "",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · England won 2–1 aet",
+        "timeFr": "",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Argentina won 3–1 aet",
+        "timeFr": "",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "TONIGHT · 21:00",
+        "venue": "Dallas",
+        "label": "France vs Spain"
+      },
+      {
+        "day": "Wed 15 July · 21:00",
+        "venue": "Atlanta",
+        "label": "England vs Argentina"
+      }
+    ],
+    "final": {
+      "day": "Sunday 19 July",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
+  },
+  "week": [
+    {
+      "day": "TUE",
+      "date": "14 Jul",
+      "highlight": true,
+      "items": [
+        "SF1 France–Spain · 21:00"
+      ]
+    },
+    {
+      "day": "WED",
+      "date": "15 Jul",
+      "highlight": false,
+      "items": [
+        "SF2 England–Argentina · 21:00"
+      ]
+    },
+    {
+      "day": "THU",
+      "date": "16 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "FRI",
+      "date": "17 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "18 Jul",
+      "highlight": false,
+      "items": [
+        "Third place · Miami · 23:00"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "19 Jul",
+      "highlight": false,
+      "items": [
+        "THE FINAL · MetLife"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "20 Jul",
+      "highlight": false,
+      "items": [
+        "The wrap-up special"
+      ]
+    }
+  ],
+  "weekSub": "Tuesday 14 July — the final on Sunday 19 July",
+  "tomorrowLabel": "TOMORROW: SF2 — ENGLAND–ARGENTINA, ATLANTA, 21:00 CET. MARKET: ENGLAND 37, TIE 34, ARGENTINA 32",
+  "tomorrow": [],
+  "signoff": "Next edition: the France–Spain verdict, the England–Argentina Crystal Ball, and two nights from the trophy.",
+  "sources": "Team news & previews: FIFA, Sports Mole, RotoWire, Goal, SI, Yahoo Sports, L'Équipe (via reports) — checked morning of 14 July 2026. Market prices: Kalshi, morning of 14 July. Kick-off times in Central European Time unless flagged otherwise.",
+  "todayZoneNote": ""
+}
