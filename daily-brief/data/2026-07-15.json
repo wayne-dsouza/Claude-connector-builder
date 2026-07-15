@@ -1,0 +1,586 @@
+{
+  "edition": "2026-07-15",
+  "editionNumber": 10,
+  "dateLabel": "Wednesday 15 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "Spain are through — tonight England–Argentina decide who joins them",
+  "quickFacts": [
+    {
+      "icon": "ball",
+      "text": "Spain 2–0 France — Oyarzabal's penalty and Porro send Spain to the final"
+    },
+    {
+      "icon": "bracket",
+      "text": "Tonight: England–Argentina in Atlanta, 21:00 — the winner meets Spain Sunday"
+    },
+    {
+      "icon": "star",
+      "text": "Crystal Ball: our France call missed — record now 5 from 8. Tonight: England 2–1"
+    }
+  ],
+  "hero": {
+    "kicker": "SEMI-FINAL 1 · FRANCE 0–2 SPAIN",
+    "headline": "THE WALL WINS. SPAIN SILENCE FRANCE.",
+    "standfirst": "The record defence didn't crack — it closed. Oyarzabal converted the penalty Yamal won off Digne, Pedro Porro finished a give-and-go with Olmo, and the tournament's most feared attack was reduced to 0.26 expected goals and a single shot on target. Spain are in their first World Cup final since they won it in 2010 — and tonight, England and Argentina decide who gets to try to stop them.",
+    "photo": "oyarzabal",
+    "photoCaption": "Mikel Oyarzabal — ice from the spot in the 22nd minute, his fifth goal of the tournament",
+    "briefing": [
+      {
+        "icon": "star",
+        "text": "The Crystal Ball called France 2–1; Spain answered 2–0. The record drops to 5 winners from 8 — and tonight it swings again: England 2–1 is the call."
+      },
+      {
+        "icon": "bolt",
+        "text": "Mbappé's night: 34 touches, three shots, none on target, one yellow — and a third-place match on Saturday instead of a final. Saliba went off with a non-contact injury."
+      },
+      {
+        "icon": "calendar",
+        "text": "Tonight, 21:00 our time in Atlanta: England–Argentina, their first World Cup meeting since 2002. Kalshi has it at England 36, Tie 34, Argentina 32 — $1.34m traded."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "France 0–2 Spain — the full report: the penalty, Porro, and the 0.26 xG suffocation"
+    },
+    {
+      "page": "P.3",
+      "text": "Tonight previewed: England–Argentina, plus the history books from 1966 to 2002"
+    },
+    {
+      "page": "P.4",
+      "text": "The Crystal Ball: England 2–1 — probabilities, factors, and the live market"
+    },
+    {
+      "page": "P.5",
+      "text": "Golden Boot: Messi can break the tie tonight; Oyarzabal joins the chase on 5"
+    },
+    {
+      "page": "P.6",
+      "text": "The road to the final: Spain wait at MetLife — bracket, third place, the week"
+    }
+  ],
+  "yesterday": [
+    {
+      "tag": "STATEMENT",
+      "tagColor": "#e34948",
+      "stage": "Semi-final 1 · Spain reach the final",
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 0
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 2
+      },
+      "venue": "AT&T Stadium, Dallas",
+      "scorers": [
+        {
+          "side": "away",
+          "player": "Oyarzabal",
+          "minute": "22'",
+          "note": "penalty"
+        },
+        {
+          "side": "away",
+          "player": "Porro",
+          "minute": "58'",
+          "note": "give-and-go with Olmo"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Possession",
+          "home": 44,
+          "away": 56
+        }
+      ],
+      "facts": [
+        {
+          "icon": "bolt",
+          "text": "France were held to 0.26 expected goals and a single shot on target — the perfect team's worst attacking night by a distance"
+        },
+        {
+          "icon": "whistle",
+          "text": "The opener came when Yamal's run drew the foul from Digne — Oyarzabal buried the penalty in the 22nd"
+        },
+        {
+          "icon": "ball",
+          "text": "France burned all their substitutes by the 72nd minute chasing the game; Saliba had gone off injured before half-time"
+        }
+      ],
+      "report": "On Bastille Day, the wall held its parade. Spain absorbed France's opening surge, allowed 0.04 expected goals in the entire first half, and struck through the move that has defined their tournament: Yamal running at a full-back until something breaks. Digne lunged, the referee pointed, and Oyarzabal — ice-cold from the spot — put Spain ahead in the 22nd minute.",
+      "report2": "The second was pure Spain: Porro exchanged passes with Olmo at the edge of the box and side-footed past Maignan in the 58th. Mbappé, shadowed everywhere by Cucurella and company, finished with 34 touches, no shot on target and a yellow card for his frustration. Simón, when needed, swept and saved. Spain's first final since 2010; France's perfect tournament ends in silence.",
+      "star": {
+        "photo": "yamal",
+        "name": "Lamine Yamal",
+        "role": "Star of the match",
+        "line": "Drew the penalty, terrorised Digne all evening, and was denied a goal of his own only by the offside flag. Three knockouts against France in two years — three Spanish wins he authored."
+      },
+      "aside": {
+        "photo": "mbappe",
+        "name": "Kylian Mbappé",
+        "line": "Eight goals coming in, none going out. Smothered by the best defence he has faced, his World Cup ends with a yellow card and a third-place match on Saturday."
+      },
+      "whatItMeans": "Spain go to MetLife on Sunday chasing a second star. France drop to Saturday's third-place match in Miami against tonight's loser.",
+      "timeline": [
+        {
+          "pos": 22,
+          "side": "away",
+          "label": "Oyarzabal 22' (pen)",
+          "type": "goal"
+        },
+        {
+          "pos": 58,
+          "side": "away",
+          "label": "Porro 58'",
+          "type": "goal"
+        }
+      ]
+    }
+  ],
+  "earlierTitle": "ENGLAND–ARGENTINA: THE HISTORY BOOKS",
+  "earlierSub": "Sixty years of grudge matches — tonight is the first since 2002",
+  "earlier": [
+    {
+      "home": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 3
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 1
+      },
+      "note": "Chile 62 · group"
+    },
+    {
+      "home": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 1
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 0
+      },
+      "note": "1966 QF · Rattín sent off"
+    },
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 2
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 1
+      },
+      "note": "Mexico 86 · Hand of God"
+    },
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 2
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 2
+      },
+      "note": "France 98 · pens"
+    },
+    {
+      "home": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 1
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 0
+      },
+      "note": "2002 · Beckham pen"
+    },
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 2
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 3
+      },
+      "note": "2005 friendly · Owen"
+    }
+  ],
+  "statTiles": [
+    {
+      "value": "0.26",
+      "label": "France's expected goals last night — the lowest any team has managed against Spain's wall"
+    },
+    {
+      "value": "2010",
+      "label": "The last time Spain reached a World Cup final. They won it"
+    },
+    {
+      "value": "72'",
+      "label": "The minute France ran out of substitutes, still two goals down"
+    },
+    {
+      "value": "$1.3m",
+      "label": "Traded on tonight's England–Argentina market on Kalshi by this morning"
+    }
+  ],
+  "todayTitle": "TONIGHT: SEMI-FINAL 2",
+  "todaySub": "England–Argentina, Mercedes-Benz Stadium, Atlanta — the winner meets Spain on Sunday",
+  "tonightLabel": "TONIGHT (CENTRAL EUROPE)",
+  "today": [
+    {
+      "kicker": "SF2 · TONIGHT · ATLANTA",
+      "home": {
+        "name": "England",
+        "code": "gb-eng"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar"
+      },
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "timeFr": "21:00",
+      "timeLocal": "3:00 PM ET",
+      "kickUtc": "2026-07-15T19:00:00Z",
+      "preview": "The Hand of God, Beckham's red, Beckham's penalty — and now, for the first time, a World Cup semi-final between them. It is their first World Cup meeting since 2002, and the prize is Spain at MetLife. Both squads are healthy: Rice has fully recovered, both XIs are expected unchanged in shape. Both also played 120 minutes on Saturday — the last half-hour tonight may belong to whoever recovered better. The market is the closest of the tournament: England 36, the tie 34, Argentina 32.",
+      "watch": [
+        "Bellingham against Messi — four knockout goals versus the man two wins from back-to-back titles",
+        "Kane on 5: the Golden Boot leaders are stuck on 8, and neither plays a final unless their team gets there first",
+        "Set pieces — with legs heavy from Saturday's extra time, one dead ball could decide the whole night",
+        "It's the first England–Argentina semi-final ever — all five World Cup meetings before tonight came in the groups, last 16 or quarters"
+      ],
+      "keyMan": {
+        "photo": "messi",
+        "name": "Lionel Messi",
+        "team": "Argentina",
+        "line": "At 39, two games from retaining the World Cup — something no one has done since Brazil in 1962. England are the one great rival he has never beaten on this stage."
+      },
+      "prediction": {
+        "call": "England 2–1",
+        "probs": {
+          "home": 36,
+          "draw": 34,
+          "away": 30
+        },
+        "advance": {
+          "home": 52,
+          "away": 48
+        },
+        "advanceLabel": "TO REACH THE FINAL",
+        "market": {
+          "source": "Kalshi · regulation-time moneyline",
+          "volume": "$1.34m",
+          "legs": [
+            {
+              "label": "England 36%",
+              "pct": 36,
+              "cls": "h"
+            },
+            {
+              "label": "Tie 34%",
+              "pct": 34,
+              "cls": "d"
+            },
+            {
+              "label": "Argentina 32%",
+              "pct": 32,
+              "cls": "a"
+            }
+          ]
+        },
+        "factors": [
+          {
+            "label": "FORM",
+            "text": "England have won every knockout round after falling behind — Bellingham has four knockout goals. Argentina have three straight extra-time escapes, and champions' habits die hard."
+          },
+          {
+            "label": "HEAD-TO-HEAD",
+            "text": "First World Cup meeting since 2002, and the knockout ledger is even: 1966 and 2002 to England, 1986 and the 1998 shootout to Argentina. Every one of them left a scar."
+          },
+          {
+            "label": "FITNESS & FATIGUE",
+            "text": "Dead even: both squads played 120 minutes on Saturday, both report clean bills of health, and Rice is fully over his quarter-final illness. Recovery, not fitness, is the variable."
+          },
+          {
+            "label": "WHERE THE MONEY IS",
+            "text": "Kalshi's $1.34m makes it the tightest market of the tournament: England 36, Tie 34, Argentina 32. A third of the money says ninety minutes won't settle it — again."
+          }
+        ],
+        "verdict": "The narrowest call we've made. England's knockout resilience and the fresher attacking legs edge it: 2–1, with Bellingham involved again. But if Messi gets one clean look at destiny, everything flips."
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 5 winners from 8, two exact scorelines.",
+  "goldenBoot": {
+    "sub": "Oyarzabal joins the chase on 5 — Messi can break the tie at the top tonight",
+    "note": "Tie-break: assists, then minutes played. Mbappé's race is now limited to Saturday's third-place match; Messi and Kane still control their own destiny.",
+    "podium": [
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "Plays tonight — one goal takes the outright lead"
+      },
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "line": "Blanked by Spain — one last chance in Saturday's third-place match"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Eliminated — his race ended one goal short"
+      }
+    ],
+    "players": [
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "plays tonight"
+      },
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "detail": "third place Sat"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "plays tonight"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 5,
+        "detail": "third place Sat"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 5,
+        "detail": "the final Sun"
+      },
+      {
+        "player": "Jude Bellingham",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 4,
+        "detail": "plays tonight"
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "done"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": "current"
+      },
+      {
+        "label": "FINAL",
+        "sub": "19 Jul",
+        "state": ""
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "FT · France won 2–0",
+        "timeFr": "",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Spain won 2–1",
+        "timeFr": "",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · England won 2–1 aet",
+        "timeFr": "",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Argentina won 3–1 aet",
+        "timeFr": "",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "FT · Spain won 2–0",
+        "venue": "Dallas",
+        "label": "France 0–2 Spain"
+      },
+      {
+        "day": "TONIGHT · 21:00",
+        "venue": "Atlanta",
+        "label": "England vs Argentina"
+      }
+    ],
+    "final": {
+      "day": "Sunday 19 July · Spain await",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
+  },
+  "week": [
+    {
+      "day": "WED",
+      "date": "15 Jul",
+      "highlight": true,
+      "items": [
+        "SF2 England–Argentina · 21:00"
+      ]
+    },
+    {
+      "day": "THU",
+      "date": "16 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "FRI",
+      "date": "17 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "18 Jul",
+      "highlight": false,
+      "items": [
+        "Third place: France v ? · 23:00"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "19 Jul",
+      "highlight": false,
+      "items": [
+        "THE FINAL: Spain v ? · MetLife"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "20 Jul",
+      "highlight": false,
+      "items": [
+        "The wrap-up special"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "21 Jul",
+      "highlight": false,
+      "items": [
+        "Football-free mornings resume"
+      ]
+    }
+  ],
+  "weekSub": "Wednesday 15 July — the final on Sunday 19 July",
+  "tomorrowLabel": "TOMORROW: THE SF2 VERDICT — THEN THIRD PLACE SATURDAY, THE FINAL SUNDAY",
+  "tomorrow": [],
+  "signoff": "Next edition: who joins Spain at MetLife — the England–Argentina verdict, and the shape of the final weekend.",
+  "sources": "Results & stats: FIFA, ESPN, FOX Sports, NBC News, CNN, Al Jazeera — checked morning of 15 July 2026. Team news: Sports Mole, RotoWire, Squawka, Yahoo Sports. Market prices: Kalshi, morning of 15 July. Kick-off times in Central European Time unless flagged otherwise."
+}
