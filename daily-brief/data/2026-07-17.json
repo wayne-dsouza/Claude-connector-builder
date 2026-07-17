@@ -1,0 +1,443 @@
+{
+  "edition": "2026-07-17",
+  "editionNumber": 12,
+  "dateLabel": "Friday 17 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "Final countdown: two days to Spain–Argentina at MetLife",
+  "quickFacts": [
+    {
+      "icon": "bracket",
+      "text": "Sunday, 21:00 our time: Spain–Argentina — the 37-game streak against the champions"
+    },
+    {
+      "icon": "boot",
+      "text": "First, Saturday 23:00: France–England for third place — and maybe the Golden Boot"
+    },
+    {
+      "icon": "bolt",
+      "text": "Kalshi this morning: final money at Spain 43, Tie 32, Argentina 27 — $1.1m traded"
+    }
+  ],
+  "hero": {
+    "kicker": "TWO DAYS TO THE FINAL · SPAIN–ARGENTINA",
+    "headline": "THE STREAK MEETS THE DYNASTY.",
+    "standfirst": "No football today — just the numbers gathering weight. Spain bring a 37-match unbeaten run across all competitions and the stingiest defence in World Cup history. Argentina bring a 13-game unbeaten World Cup streak, a 39-year-old rewriting endings, and the chance to become the first back-to-back champions since Brazil in 1962. Two days. One trophy. And before it, a Golden Boot playoff in Miami.",
+    "photo": "yamal",
+    "photoCaption": "Lamine Yamal — managing a hamstring, carrying Spain's right flank, two days from the biggest game of his life",
+    "briefing": [
+      {
+        "icon": "bolt",
+        "text": "Team news: Yamal has been managing hamstring trouble but remains central to everything Spain do. Argentina came through Atlanta without a fresh injury concern."
+      },
+      {
+        "icon": "boot",
+        "text": "The Boot: Messi's two Atlanta assists bolster his tie-break, but Mbappé strikes first — Saturday against England, one goal for the outright lead."
+      },
+      {
+        "icon": "star",
+        "text": "The Crystal Ball returns tomorrow with the third-place call, then Sunday morning with the big one. Record so far: 5 winners from 9, two exact scores."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "The final weekend previewed with fresh prices — Miami Saturday, MetLife Sunday"
+    },
+    {
+      "page": "P.3",
+      "text": "Golden Boot: Messi 8, Mbappé 8 — the tie-break maths, and who plays when"
+    },
+    {
+      "page": "P.4",
+      "text": "The completed bracket, the last week strip, and what happens after Sunday"
+    }
+  ],
+  "yesterday": [],
+  "earlierTitle": "SPAIN–ARGENTINA: THE BACK CATALOGUE",
+  "earlierSub": "They almost never meet — and when they do, someone gets hurt",
+  "earlier": [
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 2
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "note": "England 66 · group"
+    },
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 4
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "note": "2010 friendly"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 6
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 1
+      },
+      "note": "2018 · Isco hat-trick"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": "?"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": "?"
+      },
+      "note": "Sunday · MetLife"
+    }
+  ],
+  "statTiles": [
+    {
+      "value": "37",
+      "label": "Matches unbeaten for Spain across all competitions going into Sunday"
+    },
+    {
+      "value": "13",
+      "label": "World Cup matches unbeaten for Argentina — eleven wins, two draws"
+    },
+    {
+      "value": "$1.1m",
+      "label": "Traded on the final on Kalshi by this morning — Spain 43, Tie 32, Argentina 27"
+    },
+    {
+      "value": "4th",
+      "label": "The star Argentina are chasing — and it would be the first repeat since Brazil 1962"
+    }
+  ],
+  "todayTitle": "THE FINAL WEEKEND: COUNTDOWN",
+  "todaySub": "Rest day today — Miami tomorrow night, MetLife on Sunday",
+  "tonightLabel": "THE FINAL WEEKEND (CENTRAL EUROPE)",
+  "today": [
+    {
+      "kicker": "THIRD PLACE · TOMORROW · MIAMI",
+      "home": {
+        "name": "France",
+        "code": "fr"
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng"
+      },
+      "venue": "Hard Rock Stadium, Miami",
+      "timeFr": "Sat 23:00",
+      "timeLocal": "5:00 PM ET",
+      "preview": "The bronze nobody craves, the Boot everybody watches. Mbappé and Dembélé get one more night to add to 8 and 5; Kane (5) and Bellingham (4) get one last England shift of the summer. The market has hardened French: 51% against 25 for England, with 26 on the draw — England's response to Atlanta, four days on, is the great unknown. The Crystal Ball makes its third-place call tomorrow morning.",
+      "watch": [
+        "Mbappé: one goal for the outright Golden Boot lead — and first swing, a day before Messi",
+        "Tuchel's selection — how much does a shattered England rotate for a bronze medal?",
+        "Third-place games are traditionally goal-fests — the last four produced three or more goals each"
+      ],
+      "keyMan": {
+        "photo": "kane",
+        "name": "Harry Kane",
+        "team": "England",
+        "line": "Five goals, one game left in an England shirt this summer. A hat-trick in Miami would tie the leaders — unlikely, but this is the fixture where strange things happen."
+      }
+    },
+    {
+      "kicker": "THE FINAL · SUNDAY · METLIFE",
+      "home": {
+        "name": "Spain",
+        "code": "es"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar"
+      },
+      "venue": "MetLife Stadium, New York / New Jersey",
+      "timeFr": "Sun 21:00",
+      "timeLocal": "3:00 PM ET",
+      "preview": "Thirty-seven games unbeaten against thirteen World Cup games unbeaten — something breaks Sunday. Spain have conceded twice all tournament and suffocated France; Argentina have spent three straight knockouts proving no lead against them is safe. Yamal, nursing that hamstring, against Messi, nursing history. The money keeps drifting Spanish: 43 to 27 with 32 on the draw, and over a million dollars down.",
+      "watch": [
+        "Yamal v Messi — the heir and the throne share a pitch with the trophy between them",
+        "Álvarez against the record wall — Pickford stopped him twice; Simón is a different question",
+        "Argentina's stoppage-time sorcery against a Spain side that has never trailed this tournament"
+      ],
+      "keyMan": {
+        "photo": "alvarez",
+        "name": "Julián Álvarez",
+        "team": "Argentina",
+        "line": "The 112th-minute winner against Switzerland, denied twice by Pickford in Atlanta. Against a wall this good, Argentina need their spider to bite once."
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 5 winners from 9, two exact scorelines.",
+  "goldenBoot": {
+    "sub": "Two games left, five men still alive — Mbappé strikes first on Saturday",
+    "note": "Tie-break: assists, then minutes played. Messi's two Atlanta assists strengthen his case in a tie — which makes a Mbappé goal on Saturday almost mandatory.",
+    "podium": [
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "Plays the final Sunday — assists have his tie-break covered"
+      },
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "line": "Third place Saturday — likely needs a goal, not a tie"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Eliminated — his race ended one goal short"
+      }
+    ],
+    "players": [
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "the final Sun"
+      },
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 8,
+        "detail": "third place Sat"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "third place Sat"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 5,
+        "detail": "third place Sat"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 5,
+        "detail": "the final Sun"
+      },
+      {
+        "player": "Jude Bellingham",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 4,
+        "detail": "third place Sat"
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "done"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": "done"
+      },
+      {
+        "label": "FINAL",
+        "sub": "19 Jul",
+        "state": "current"
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "FT · France won 2–0",
+        "timeFr": "",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Spain won 2–1",
+        "timeFr": "",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · England won 2–1 aet",
+        "timeFr": "",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Argentina won 3–1 aet",
+        "timeFr": "",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "FT · Spain won 2–0",
+        "venue": "Dallas",
+        "label": "France 0–2 Spain"
+      },
+      {
+        "day": "FT · Argentina won 2–1",
+        "venue": "Atlanta",
+        "label": "England 1–2 Argentina"
+      }
+    ],
+    "final": {
+      "day": "Sunday 19 July · 21:00 · Spain v Argentina",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
+  },
+  "week": [
+    {
+      "day": "WED",
+      "date": "15 Jul",
+      "highlight": false,
+      "items": [
+        "SF2: England 1–2 Argentina"
+      ]
+    },
+    {
+      "day": "THU",
+      "date": "16 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "FRI",
+      "date": "17 Jul",
+      "highlight": true,
+      "items": [
+        "Rest day — final eve eve"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "18 Jul",
+      "highlight": false,
+      "items": [
+        "Third place: France–England · 23:00"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "19 Jul",
+      "highlight": false,
+      "items": [
+        "THE FINAL: Spain–Argentina · 21:00"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "20 Jul",
+      "highlight": false,
+      "items": [
+        "The wrap-up special"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "21 Jul",
+      "highlight": false,
+      "items": [
+        "Football-free mornings resume"
+      ]
+    }
+  ],
+  "weekSub": "Wednesday 15 July — the trophy on Sunday 19 July",
+  "tomorrowLabel": "TOMORROW: THE THIRD-PLACE CRYSTAL BALL — FRANCE–ENGLAND, MIAMI, 23:00 CET",
+  "tomorrow": [],
+  "signoff": "Next edition: the third-place Crystal Ball, the Golden Boot showdown, and final-eve team news from both camps.",
+  "sources": "Build-up & team news: FOX Sports, NBC — checked morning of 17 July 2026. Market prices: Kalshi, morning of 17 July. Kick-off times in Central European Time unless flagged otherwise."
+}
