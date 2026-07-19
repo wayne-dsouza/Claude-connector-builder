@@ -1,0 +1,631 @@
+{
+  "edition": "2026-07-19",
+  "editionNumber": 14,
+  "dateLabel": "Sunday 19 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "FINAL DAY: Spain–Argentina at MetLife, 21:00 our time",
+  "quickFacts": [
+    {
+      "icon": "bracket",
+      "text": "Tonight, 21:00: THE FINAL — Spain–Argentina. Kalshi: Spain 43, Tie 32, Argentina 28"
+    },
+    {
+      "icon": "boot",
+      "text": "Mbappé's Miami brace takes the Boot lead at 10 — Messi needs two tonight to answer"
+    },
+    {
+      "icon": "ball",
+      "text": "Last night: France 4–6 England — a ten-goal bronze medal and a Saka hat-trick"
+    }
+  ],
+  "hero": {
+    "kicker": "THE FINAL · TONIGHT · 21:00 · METLIFE",
+    "headline": "NINETY MINUTES FROM ETERNITY.",
+    "standfirst": "It ends tonight. Spain, unbeaten in 38 matches, chase a second star with the meanest defence a World Cup has seen. Argentina, unbeaten in 14 straight World Cup games, chase the first repeat since Brazil in 1962 — with a 39-year-old who keeps refusing endings. And after Mbappé's brace in Miami's ten-goal madness, Messi now needs two goals tonight just to force the Golden Boot countback. Everything, all at once, one last time.",
+    "photo": "messi",
+    "photoCaption": "Lionel Messi — one game for the trophy, two goals for the Boot, everything for eternity",
+    "briefing": [
+      {
+        "icon": "ball",
+        "text": "The bronze went mad: England led 4–0 at the break through Rice, Konsa and a Saka double; Mbappé led a furious rally to 4–5 before Saka's penalty and Bellingham settled a 6–4 classic."
+      },
+      {
+        "icon": "boot",
+        "text": "Mbappé finished on 10 — and, per NBC, his 22nd career World Cup goal makes him the tournament's all-time top scorer. The Boot is his unless Messi scores twice at MetLife."
+      },
+      {
+        "icon": "star",
+        "text": "The Crystal Ball's France call fell in the goal-storm — record now 5 from 10. Tonight, the last regular call of the summer: Spain 2–1. Full workings on page 4."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "France 4–6 England — the ten-goal bronze: Saka's hat-trick, Mbappé's brace"
+    },
+    {
+      "page": "P.3",
+      "text": "The final previewed: Spain–Argentina, the streak against the dynasty"
+    },
+    {
+      "page": "P.4",
+      "text": "The Crystal Ball's final call: Spain 2–1 — probabilities, factors, live market"
+    },
+    {
+      "page": "P.5",
+      "text": "Golden Boot: Mbappé seizes the lead at 10 — Messi's last chance tonight"
+    },
+    {
+      "page": "P.6",
+      "text": "The last road page: bracket complete, one match left in the World Cup"
+    }
+  ],
+  "yesterday": [
+    {
+      "tag": "TEN-GOAL THRILLER",
+      "tagColor": "#eda100",
+      "stage": "Third place · England take the bronze",
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 4
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 6
+      },
+      "venue": "Hard Rock Stadium, Miami",
+      "scorers": [
+        {
+          "side": "away",
+          "player": "Saka",
+          "minute": "37', 45', 87'",
+          "note": "hat-trick · third a penalty"
+        },
+        {
+          "side": "away",
+          "player": "Rice",
+          "minute": "3'",
+          "note": "opener"
+        },
+        {
+          "side": "away",
+          "player": "Konsa",
+          "minute": "18'",
+          "note": ""
+        },
+        {
+          "side": "away",
+          "player": "Bellingham",
+          "minute": "90'+7",
+          "note": "sealed it"
+        },
+        {
+          "side": "home",
+          "player": "Mbappé",
+          "minute": "48', 66'",
+          "note": "his 9th and 10th"
+        },
+        {
+          "side": "home",
+          "player": "Barcola",
+          "minute": "54'",
+          "note": ""
+        },
+        {
+          "side": "home",
+          "player": "Dembélé",
+          "minute": "90'+5",
+          "note": "made it 4–5"
+        }
+      ],
+      "stats": [],
+      "facts": [
+        {
+          "icon": "bolt",
+          "text": "England led 4–0 inside 45 minutes — then France scored three in eighteen second-half minutes and nearly completed the comeback"
+        },
+        {
+          "icon": "boot",
+          "text": "Mbappé's brace took him to 10 for the tournament and, per NBC, a record 22 career World Cup goals — the Boot is now his to lose"
+        },
+        {
+          "icon": "ball",
+          "text": "Saka's hat-trick was capped from the spot in the 87th — the goal that finally broke France's rally"
+        }
+      ],
+      "report": "The game nobody wanted became the game nobody will forget. England buried France in a first-half blur: Rice inside three minutes, Konsa from a corner in the 18th, and Saka twice before the break. At 4–0 the only question was the margin — until Mbappé decided the Golden Boot was worth chasing after all, and Miami got the wildest half of the tournament.",
+      "report2": "Mbappé struck in the 48th and 66th around Barcola's finish, and at 4–3 France were flying. Saka answered from the penalty spot in the 87th, Dembélé made it 4–5 deep in stoppage time, and Bellingham finished the argument in the 97th minute. Ten goals, a bronze for England, and a Boot-race hand grenade rolled onto MetLife's doorstep: Messi now needs two tonight.",
+      "star": {
+        "photo": "saka",
+        "name": "Bukayo Saka",
+        "role": "Star of the match",
+        "line": "A hat-trick in an England shirt at a World Cup — two in the first-half storm, and the ice-cold 87th-minute penalty that stopped France's comeback dead."
+      },
+      "aside": {
+        "photo": "mbappe",
+        "name": "Kylian Mbappé",
+        "line": "Two goals in eighteen minutes took him to 10 for the tournament and a record 22 in World Cups. The Golden Boot now waits on what Messi does tonight."
+      },
+      "whatItMeans": "England take third, France finish fourth — and the Golden Boot maths is set for the final: Messi needs two to force a countback, three to take it outright.",
+      "timeline": [
+        {
+          "pos": 3,
+          "side": "away",
+          "label": "Rice 3'",
+          "type": "goal"
+        },
+        {
+          "pos": 18,
+          "side": "away",
+          "label": "Konsa 18'",
+          "type": "goal"
+        },
+        {
+          "pos": 37,
+          "side": "away",
+          "label": "Saka 37'",
+          "type": "goal"
+        },
+        {
+          "pos": 45,
+          "side": "away",
+          "label": "Saka 45'",
+          "type": "goal"
+        },
+        {
+          "pos": 48,
+          "side": "home",
+          "label": "Mbappé 48'",
+          "type": "goal"
+        },
+        {
+          "pos": 54,
+          "side": "home",
+          "label": "Barcola 54'",
+          "type": "goal"
+        },
+        {
+          "pos": 66,
+          "side": "home",
+          "label": "Mbappé 66'",
+          "type": "goal"
+        },
+        {
+          "pos": 87,
+          "side": "away",
+          "label": "Saka 87' pen",
+          "type": "goal"
+        },
+        {
+          "pos": 93,
+          "side": "home",
+          "label": "Dembélé 90'+5",
+          "type": "goal"
+        },
+        {
+          "pos": 96,
+          "side": "away",
+          "label": "Bellingham",
+          "type": "goal"
+        }
+      ]
+    }
+  ],
+  "earlierTitle": "SPAIN–ARGENTINA: THE BACK CATALOGUE",
+  "earlierSub": "They almost never meet — and tonight is for everything",
+  "earlier": [
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 2
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "note": "England 66 · group"
+    },
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 4
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "note": "2010 friendly"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 6
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 1
+      },
+      "note": "2018 · Isco hat-trick"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": "?"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": "?"
+      },
+      "note": "TONIGHT · MetLife"
+    }
+  ],
+  "statTiles": [
+    {
+      "value": "$3.9m",
+      "label": "Traded on tonight's final on Kalshi by this morning — by far the tournament's biggest market"
+    },
+    {
+      "value": "22",
+      "label": "Mbappé's career World Cup goals after his Miami brace — the all-time record, per NBC"
+    },
+    {
+      "value": "38",
+      "label": "Spain's unbeaten run in all competitions — one win from a second star"
+    },
+    {
+      "value": "6–4",
+      "label": "The bronze-medal scoreline — ten goals, and the Boot race blown open"
+    }
+  ],
+  "todayTitle": "TONIGHT: THE FINAL",
+  "todaySub": "Spain–Argentina, MetLife Stadium — the last match of World Cup 26",
+  "tonightLabel": "TONIGHT (CENTRAL EUROPE)",
+  "today": [
+    {
+      "kicker": "THE FINAL · TONIGHT · METLIFE",
+      "home": {
+        "name": "Spain",
+        "code": "es"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar"
+      },
+      "venue": "MetLife Stadium, New York / New Jersey",
+      "timeFr": "21:00",
+      "timeLocal": "3:00 PM ET",
+      "kickUtc": "2026-07-19T19:00:00Z",
+      "preview": "The wall against the escape artists. Spain have conceded twice in seven games and strangled France; Argentina have trailed or been level late in three straight knockouts and won them all. Yamal's hamstring has been managed all week; Argentina are at full strength. Messi carries the extra thread: two goals forces a Golden Boot countback with Mbappé, three takes it outright. The money says Spain — 43 to 28 — but a third of $3.9m sits on the draw. Nobody is ruling out the long night.",
+      "watch": [
+        "Yamal v Messi — the 18-year-old face of the next decade against the man defending the crown",
+        "Messi's Boot chase — every free-kick within 30 metres now carries two prizes",
+        "If it reaches the 85th minute level, remember Atlanta: Argentina's endgame is a weapon"
+      ],
+      "keyMan": {
+        "photo": "yamal",
+        "name": "Lamine Yamal",
+        "team": "Spain",
+        "line": "A managed hamstring, a penalty won in the semi, and the biggest stage football offers at 18. Win tonight and the era doesn't end — it changes hands."
+      },
+      "prediction": {
+        "call": "Spain 2–1",
+        "probs": {
+          "home": 43,
+          "draw": 32,
+          "away": 25
+        },
+        "advance": {
+          "home": 55,
+          "away": 45
+        },
+        "advanceLabel": "TO LIFT THE TROPHY",
+        "market": {
+          "source": "Kalshi · regulation-time moneyline",
+          "volume": "$3.86m",
+          "legs": [
+            {
+              "label": "Spain 43%",
+              "pct": 43,
+              "cls": "h"
+            },
+            {
+              "label": "Tie 32%",
+              "pct": 32,
+              "cls": "d"
+            },
+            {
+              "label": "Argentina 28%",
+              "pct": 28,
+              "cls": "a"
+            }
+          ]
+        },
+        "factors": [
+          {
+            "label": "FORM",
+            "text": "Spain are unbeaten in 38 and have conceded twice all tournament. Argentina are unbeaten in 14 World Cup matches — but have needed comebacks or extra time in every knockout round."
+          },
+          {
+            "label": "HEAD-TO-HEAD",
+            "text": "Almost no modern history: one World Cup meeting (1966, Argentina), one 6–1 Spanish demolition in 2018, one 4–1 Argentine friendly win in 2010. Tonight rewrites the whole ledger."
+          },
+          {
+            "label": "FITNESS & FATIGUE",
+            "text": "Even: both had the full week. Spain's only flag is Yamal's managed hamstring; Argentina are at full strength but have 330 more knockout minutes in their legs this tournament."
+          },
+          {
+            "label": "WHERE THE MONEY IS",
+            "text": "Kalshi's $3.86m — the biggest market of the World Cup — splits Spain 43, Tie 32, Argentina 28. A third of the money refuses to pick a winner in ninety minutes."
+          }
+        ],
+        "verdict": "Spain 2–1 — the wall bends but doesn't break, and Oyarzabal or Yamal finds the second before Argentina's endgame arrives. But if it's level in the 85th, throw this page away: that script belongs to Messi."
+      }
+    }
+  ],
+  "predictionsDisclaimer": "The Crystal Ball is for family bragging rights only. Probabilities blend live prediction-market prices with our own reading of form, fitness and history. Entertainment — not financial or betting advice. Record so far: 5 winners from 10, two exact scorelines. The full scorecard comes tomorrow.",
+  "goldenBoot": {
+    "sub": "Mbappé seizes the outright lead at 10 — Messi's answer must come tonight",
+    "note": "The maths: two Messi goals tonight force a countback on assists and minutes; three win it outright. Anything less and the Boot is Mbappé's.",
+    "podium": [
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 10,
+        "line": "A brace in the bronze — his tournament is over, his lead is not safe"
+      },
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "Two goals tonight for the countback, three for the outright Boot"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "Eliminated — his race ended one goal short of the old lead"
+      }
+    ],
+    "players": [
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 10,
+        "detail": "finished"
+      },
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "plays tonight"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "eliminated"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 6,
+        "detail": "finished"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "finished"
+      },
+      {
+        "player": "Jude Bellingham",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "finished"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 5,
+        "detail": "plays tonight"
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "done"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": "done"
+      },
+      {
+        "label": "FINAL",
+        "sub": "TONIGHT",
+        "state": "current"
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "FT · France won 2–0",
+        "timeFr": "",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Spain won 2–1",
+        "timeFr": "",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · England won 2–1 aet",
+        "timeFr": "",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Argentina won 3–1 aet",
+        "timeFr": "",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "FT · Spain won 2–0",
+        "venue": "Dallas",
+        "label": "France 0–2 Spain"
+      },
+      {
+        "day": "FT · Argentina won 2–1",
+        "venue": "Atlanta",
+        "label": "England 1–2 Argentina"
+      }
+    ],
+    "final": {
+      "day": "TONIGHT · 21:00 · Spain v Argentina",
+      "venue": "MetLife Stadium, New York / New Jersey"
+    }
+  },
+  "week": [
+    {
+      "day": "WED",
+      "date": "15 Jul",
+      "highlight": false,
+      "items": [
+        "SF2: England 1–2 Argentina"
+      ]
+    },
+    {
+      "day": "THU",
+      "date": "16 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "FRI",
+      "date": "17 Jul",
+      "highlight": false,
+      "items": [
+        "Rest day"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "18 Jul",
+      "highlight": false,
+      "items": [
+        "Bronze: France 4–6 England"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "19 Jul",
+      "highlight": true,
+      "items": [
+        "THE FINAL: Spain–Argentina · 21:00"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "20 Jul",
+      "highlight": false,
+      "items": [
+        "The wrap-up special"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "21 Jul",
+      "highlight": false,
+      "items": [
+        "Football-free mornings resume"
+      ]
+    }
+  ],
+  "weekSub": "Wednesday 15 July — the trophy tonight",
+  "tomorrowLabel": "TOMORROW: THE WRAP-UP SPECIAL — THE WHOLE TOURNAMENT, AND THE CRYSTAL BALL SCORECARD",
+  "tomorrow": [],
+  "signoff": "Tomorrow morning: the wrap-up special — the final's verdict, the tournament in review, and how the Crystal Ball's calls held up. One last edition.",
+  "sources": "Results & stats: NBC Sports, FOX Sports, ESPN, Yahoo Sports — checked morning of 19 July 2026. Market prices: Kalshi, morning of 19 July. Kick-off times in Central European Time unless flagged otherwise."
+}
