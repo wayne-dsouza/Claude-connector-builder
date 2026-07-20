@@ -1,0 +1,571 @@
+{
+  "edition": "2026-07-20",
+  "editionNumber": 15,
+  "dateLabel": "Monday 20 July 2026",
+  "tournament": "FIFA World Cup 26 — United States · Canada · Mexico",
+  "stageLabel": "THE WRAP-UP SPECIAL — Spain are champions of the world",
+  "quickFacts": [
+    {
+      "icon": "star",
+      "text": "SPAIN 1–0 ARGENTINA (aet) — Ferran Torres in the 106th wins the World Cup"
+    },
+    {
+      "icon": "boot",
+      "text": "The awards: Mbappé the Boot (10), Rodri the Ball, Simón the Glove, Cubarsí young player"
+    },
+    {
+      "icon": "ball",
+      "text": "The Crystal Ball retires at 6 winners from 11, two exact scores — and it called the champions"
+    }
+  ],
+  "hero": {
+    "kicker": "THE FINAL · SPAIN 1–0 ARGENTINA (AET)",
+    "headline": "SPAIN, CHAMPIONS OF THE WORLD.",
+    "standfirst": "Sixteen years after Iniesta in Johannesburg, it happened again in extra time. Ferran Torres pounced on Nico Williams' knock-down in the 106th minute and drove the ball home, and the wall that conceded a single goal in seven games finally had its reward. Argentina, down to ten after Enzo Fernández's red card, were carried to extra time almost single-handedly by Emi Martínez's record eleven saves — but the repeat since 1962 never came. Spain have their second star. This is the last edition of The Morning Kickoff. What a summer it was.",
+    "photo": "ferran",
+    "photoCaption": "Ferran Torres — the 106th-minute strike that won the World Cup, \"with the power of all the Spanish people\"",
+    "briefing": [
+      {
+        "icon": "star",
+        "text": "The awards: Rodri takes the Golden Ball, Unai Simón the Golden Glove, 19-year-old Pau Cubarsí — who started every game — Young Player. Mbappé's 10 goals win the Boot: Messi, a ghost by his own standards, finished on 8 and fought back tears at the medals."
+      },
+      {
+        "icon": "bolt",
+        "text": "The final in numbers: Spain 65% possession, 20 shots, 12 on target; Argentina 2 shots, none on target, and no corner in the first ninety. Martínez's 11 saves are a World Cup final record."
+      },
+      {
+        "icon": "ball",
+        "text": "The Crystal Ball signs off: 11 calls, 6 winners, 2 exact scorelines — and it named the champions on the last morning. The full scorecard is on page 3. Thank you for reading, every single morning."
+      }
+    ]
+  },
+  "insideToday": [
+    {
+      "page": "P.2",
+      "text": "The final, in full: Torres' winner, Enzo's red, and Martínez's eleven-save heartbreak"
+    },
+    {
+      "page": "P.3",
+      "text": "The Crystal Ball: the complete scorecard — all eleven calls, graded"
+    },
+    {
+      "page": "P.4",
+      "text": "The Golden Boot, settled — and the numbers of the whole tournament"
+    },
+    {
+      "page": "P.5",
+      "text": "The completed bracket, the last week, and a thank-you from The Morning Kickoff"
+    }
+  ],
+  "yesterday": [
+    {
+      "tag": "CHAMPIONS",
+      "tagColor": "#eda100",
+      "stage": "The final · Spain win World Cup 26",
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 0
+      },
+      "venue": "MetLife Stadium, New York / New Jersey · after extra time",
+      "scorers": [
+        {
+          "side": "home",
+          "player": "Ferran Torres",
+          "minute": "106'",
+          "note": "from Nico Williams' knock-down"
+        }
+      ],
+      "events": [
+        {
+          "icon": "redcard",
+          "text": "Red card: Enzo Fernández (ARG), second yellow for a late challenge on Cubarsí in stoppage time — Argentina played extra time with ten"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Possession",
+          "home": 65,
+          "away": 35
+        },
+        {
+          "label": "Shots on target",
+          "home": 12,
+          "away": 0
+        }
+      ],
+      "facts": [
+        {
+          "icon": "bolt",
+          "text": "Emi Martínez made 11 saves — a World Cup final record — including a stoppage-time wonder-stop from Yamal's free-kick"
+        },
+        {
+          "icon": "whistle",
+          "text": "Argentina managed no shot on target, no corner and eight box touches across the whole night; Spain's xG read 1.94 to 0.20"
+        },
+        {
+          "icon": "ball",
+          "text": "Nico Williams had a goal disallowed for Merino's foul before setting up the winner; Lisandro Martínez went off injured before half-time"
+        }
+      ],
+      "report": "Spain did to Argentina what they did to everyone: took the ball and never gave it back. But for ninety minutes the story belonged to Emiliano Martínez, who repelled everything — twelve Spanish efforts found the target and only the last one counted. Messi, shadowed and starved, barely touched the ball; the champions' plan was survival, and it very nearly reached penalties intact.",
+      "report2": "Then it cracked twice. Enzo Fernández's second yellow, for a late lunge on Cubarsí in stoppage time, left ten men for extra time. And in the 106th minute Porro crossed to the back post, Williams headed down, and Ferran Torres drove it high into the net. Martínez could do nothing, at last. Spain — one goal conceded in seven games, unbeaten now in 39 — are world champions for the second time, and the age of this team is only beginning.",
+      "star": {
+        "photo": "simon",
+        "name": "Unai Simón",
+        "role": "The Golden Glove",
+        "line": "One goal conceded in an entire World Cup. The record clean-sheet streak, the France shutout, and a final where the wall held one last time."
+      },
+      "aside": {
+        "photo": "messi",
+        "name": "Lionel Messi",
+        "line": "A ghost on the night, in tears at the medals. No second star at 39 — but a Cup, a run of 14 unbeaten, and twenty years of mornings like these. What a way to have watched him."
+      },
+      "whatItMeans": "Spain add a second star, sixteen years after 2010 — Euro champions and world champions at once. Argentina's era ends one game short of history. And with that, World Cup 26 is complete.",
+      "timeline": [
+        {
+          "pos": 90,
+          "side": "away",
+          "label": "Enzo red",
+          "type": "red"
+        },
+        {
+          "pos": 97,
+          "side": "home",
+          "label": "Torres 106'",
+          "type": "goal"
+        }
+      ]
+    }
+  ],
+  "earlierTitle": "THE CRYSTAL BALL: FINAL SCORECARD",
+  "earlierSub": "Eleven calls, six winners, two exact scores — for bragging rights only, start to finish",
+  "earlier": [
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 2
+      },
+      "away": {
+        "name": "Portugal",
+        "code": "pt",
+        "score": 1
+      },
+      "note": "HIT · Spain won 1–0"
+    },
+    {
+      "home": {
+        "name": "USA",
+        "code": "us",
+        "score": 2
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be",
+        "score": 1
+      },
+      "note": "MISS · Belgium 4–1"
+    },
+    {
+      "home": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 2
+      },
+      "away": {
+        "name": "Egypt",
+        "code": "eg",
+        "score": 0
+      },
+      "note": "HIT · 3–2"
+    },
+    {
+      "home": {
+        "name": "Colombia",
+        "code": "co",
+        "score": 2
+      },
+      "away": {
+        "name": "Switzerland",
+        "code": "ch",
+        "score": 1
+      },
+      "note": "MISS · Swiss pens"
+    },
+    {
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 2
+      },
+      "away": {
+        "name": "Morocco",
+        "code": "ma",
+        "score": 1
+      },
+      "note": "HIT · 2–0"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 2
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "be",
+        "score": 1
+      },
+      "note": "EXACT · 2–1"
+    },
+    {
+      "home": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 2
+      },
+      "away": {
+        "name": "Norway",
+        "code": "no",
+        "score": 1
+      },
+      "note": "EXACT · 2–1 aet"
+    },
+    {
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 2
+      },
+      "away": {
+        "name": "Spain",
+        "code": "es",
+        "score": 1
+      },
+      "note": "MISS · Spain 2–0"
+    },
+    {
+      "home": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 2
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 1
+      },
+      "note": "MISS · ARG 2–1"
+    },
+    {
+      "home": {
+        "name": "France",
+        "code": "fr",
+        "score": 2
+      },
+      "away": {
+        "name": "England",
+        "code": "gb-eng",
+        "score": 1
+      },
+      "note": "MISS · ENG 6–4"
+    },
+    {
+      "home": {
+        "name": "Spain",
+        "code": "es",
+        "score": 2
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ar",
+        "score": 1
+      },
+      "note": "HIT · 1–0 aet"
+    }
+  ],
+  "statTiles": [
+    {
+      "value": "11",
+      "label": "Emi Martínez saves in the final — a World Cup final record, in a losing cause"
+    },
+    {
+      "value": "1",
+      "label": "Goals Spain conceded in seven knockout-bound games — the stingiest campaign ever"
+    },
+    {
+      "value": "39",
+      "label": "Spain's unbeaten run after last night — Euro and World champions at once"
+    },
+    {
+      "value": "2–1",
+      "label": "The scoreline the Crystal Ball predicted nine times in eleven calls. It landed exactly twice"
+    }
+  ],
+  "todayTitle": "THE CRYSTAL BALL: HOW WE DID",
+  "todaySub": "Eleven mornings of calls, graded — David, this section was your idea. Thank you",
+  "tonightLabel": "THAT'S A WRAP — SPAIN ARE CHAMPIONS",
+  "today": [],
+  "predictionsDisclaimer": "The Crystal Ball was for family bragging rights only — probabilities blended live prediction-market prices with our own reading of form, fitness and history. Entertainment, never financial or betting advice. Final record: 6 winners from 11 calls, two exact scorelines, one champion named.",
+  "goldenBoot": {
+    "sub": "Settled: Mbappé wins the Golden Boot at 10 — Messi's ghost night ends the race",
+    "note": "The other silverware: Rodri wins the Golden Ball, Unai Simón the Golden Glove, and 19-year-old Pau Cubarsí — a starter in every game — Young Player of the Tournament.",
+    "podium": [
+      {
+        "photo": "mbappe",
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 10,
+        "line": "GOLDEN BOOT — 10 goals, and a record 22 in World Cups all-time"
+      },
+      {
+        "photo": "messi",
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "line": "Held scoreless in the final — 8 goals and the tournament's assists to remember"
+      },
+      {
+        "photo": "haaland",
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "line": "7 goals and a nation's greatest World Cup ever"
+      }
+    ],
+    "players": [
+      {
+        "player": "Kylian Mbappé",
+        "team": "France",
+        "code": "fr",
+        "goals": 10,
+        "detail": "GOLDEN BOOT"
+      },
+      {
+        "player": "Lionel Messi",
+        "team": "Argentina",
+        "code": "ar",
+        "goals": 8,
+        "detail": "runner-up"
+      },
+      {
+        "player": "Erling Haaland",
+        "team": "Norway",
+        "code": "no",
+        "goals": 7,
+        "detail": "third"
+      },
+      {
+        "player": "Ousmane Dembélé",
+        "team": "France",
+        "code": "fr",
+        "goals": 6,
+        "detail": "fourth"
+      },
+      {
+        "player": "Harry Kane",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "bronze medallist"
+      },
+      {
+        "player": "Jude Bellingham",
+        "team": "England",
+        "code": "gb-eng",
+        "goals": 5,
+        "detail": "bronze medallist"
+      },
+      {
+        "player": "Mikel Oyarzabal",
+        "team": "Spain",
+        "code": "es",
+        "goals": 5,
+        "detail": "WORLD CHAMPION"
+      }
+    ]
+  },
+  "stageTracker": {
+    "stages": [
+      {
+        "label": "GROUPS",
+        "sub": "11–27 Jun",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 32",
+        "sub": "28 Jun–3 Jul",
+        "state": "done"
+      },
+      {
+        "label": "ROUND OF 16",
+        "sub": "4–7 Jul",
+        "state": "done"
+      },
+      {
+        "label": "QUARTERS",
+        "sub": "9–12 Jul",
+        "state": "done"
+      },
+      {
+        "label": "SEMIS",
+        "sub": "14–15 Jul",
+        "state": "done"
+      },
+      {
+        "label": "FINAL",
+        "sub": "Spain 1–0",
+        "state": "done"
+      }
+    ]
+  },
+  "bracket": {
+    "quarterFinals": [
+      {
+        "day": "FT · France won 2–0",
+        "timeFr": "",
+        "venue": "Boston",
+        "home": {
+          "name": "France",
+          "code": "fr"
+        },
+        "away": {
+          "name": "Morocco",
+          "code": "ma"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Spain won 2–1",
+        "timeFr": "",
+        "venue": "Los Angeles",
+        "home": {
+          "name": "Spain",
+          "code": "es"
+        },
+        "away": {
+          "name": "Belgium",
+          "code": "be"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · England won 2–1 aet",
+        "timeFr": "",
+        "venue": "Miami",
+        "home": {
+          "name": "Norway",
+          "code": "no"
+        },
+        "away": {
+          "name": "England",
+          "code": "gb-eng"
+        },
+        "confirmed": true
+      },
+      {
+        "day": "FT · Argentina won 3–1 aet",
+        "timeFr": "",
+        "venue": "Kansas City",
+        "home": {
+          "name": "Argentina",
+          "code": "ar"
+        },
+        "away": {
+          "name": "Switzerland",
+          "code": "ch"
+        },
+        "confirmed": true
+      }
+    ],
+    "semiFinals": [
+      {
+        "day": "FT · Spain won 2–0",
+        "venue": "Dallas",
+        "label": "France 0–2 Spain"
+      },
+      {
+        "day": "FT · Argentina won 2–1",
+        "venue": "Atlanta",
+        "label": "England 1–2 Argentina"
+      }
+    ],
+    "final": {
+      "day": "CHAMPIONS: SPAIN · 1–0 aet",
+      "venue": "MetLife Stadium · Ferran Torres 106'"
+    }
+  },
+  "week": [
+    {
+      "day": "TUE",
+      "date": "14 Jul",
+      "highlight": false,
+      "items": [
+        "SF1: France 0–2 Spain"
+      ]
+    },
+    {
+      "day": "WED",
+      "date": "15 Jul",
+      "highlight": false,
+      "items": [
+        "SF2: England 1–2 Argentina"
+      ]
+    },
+    {
+      "day": "SAT",
+      "date": "18 Jul",
+      "highlight": false,
+      "items": [
+        "Bronze: France 4–6 England"
+      ]
+    },
+    {
+      "day": "SUN",
+      "date": "19 Jul",
+      "highlight": false,
+      "items": [
+        "FINAL: Spain 1–0 Argentina aet"
+      ]
+    },
+    {
+      "day": "MON",
+      "date": "20 Jul",
+      "highlight": true,
+      "items": [
+        "The wrap-up special — that's a wrap"
+      ]
+    },
+    {
+      "day": "TUE",
+      "date": "21 Jul",
+      "highlight": false,
+      "items": [
+        "Football-free mornings resume"
+      ]
+    },
+    {
+      "day": "2030",
+      "date": "next",
+      "highlight": false,
+      "items": [
+        "See you at the next one"
+      ]
+    }
+  ],
+  "weekSub": "The final week — and the trophy home in Madrid",
+  "tomorrowLabel": "THAT'S ALL, FOLKS — THANK YOU FOR READING THE MORNING KICKOFF, ALL FIFTEEN EDITIONS",
+  "tomorrow": [],
+  "signoff": "Fifteen editions, fourteen mornings of football, one champion. Thanks for opening every one — and thanks to David for the Crystal Ball. The Morning Kickoff will be back for the next big tournament. Adiós.",
+  "sources": "Final report & stats: FIFA, ESPN, Yahoo Sports — checked morning of 20 July 2026. Awards as announced at MetLife. Prediction-market prices across the tournament: Kalshi.",
+  "signoffTitle": "That's a wrap."
+}

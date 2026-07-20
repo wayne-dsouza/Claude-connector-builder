@@ -783,7 +783,7 @@ const roadPage = `<div class="page">
     ${weekStrip(data.week)}
     <div class="signoff">
       ${icon('ball', 26, '#eda100')}
-      <div><b>See you tomorrow morning.</b><br><span>${esc(data.signoff)}</span></div>
+      <div><b>${esc(data.signoffTitle || 'See you tomorrow morning.')}</b><br><span>${esc(data.signoff)}</span></div>
     </div>
   </div>
   <div class="credits">__PHOTO_CREDITS__</div>
